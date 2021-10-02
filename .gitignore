@@ -1,0 +1,13 @@
+*~
+*.aux
+*.log
+*.dvi
+*.toc
+*.nav
+*.snm
+*.out
+*.bbl
+*.blg
+*.lof
+__pycache__
+env
