@@ -122,9 +122,7 @@ written in English.
    presented and compared with the terminology developed so far in the
    seminar.
 
-9. Patterns for Business Model Innovation
-
-10. Patterns for Sustainable Business Model Innovation
+9. Patterns for Sustainable Business Model Innovation
 
 
 More themes (more to be added): 
@@ -162,7 +160,7 @@ Introduction to the seminar topic. Discussion of the seminar plan. (Gräbe)
 
 ### 11.01. Theme 9.
 
-### 18.01. Theme 10.
+### 18.01. 
 
 ### 25.01.
 
