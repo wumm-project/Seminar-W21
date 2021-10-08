@@ -122,8 +122,19 @@ written in English.
    presented and compared with the terminology developed so far in the
    seminar.
 
-9. Patterns for Sustainable Business Model Innovation
+9. Sustainable Business Model Patterns and Anti-Patterns
 
+   __Goal:__ The integration of sustainable goals into business models is of
+   high importance to meet the key challenges of today's society, such as
+   climate change, social justice and resource scarcity. To this end,
+   companies are increasingly resorting to reflect their business model in
+   terms of economic, ecological and social responsibility. Business model
+   patterns can support this by identifying proven and applicable solutions
+   and by helping to identify potential for improvement.  In addition,
+   anti-patterns, which represent solutions that are known to have
+   shortcomings, can be used to design business models.  An overview of
+   existing sustainable business model patterns and anti-patterns has to be
+   developed based on a systematic literature review.
 
 More themes (more to be added): 
 - Process and Enterprise Maturity Model - Michael Hammer
