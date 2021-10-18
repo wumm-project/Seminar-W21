@@ -230,7 +230,6 @@ written in English.
 
    __Literature:__ (Lüdeke-Freund et al. 2018)
 
-
 More themes (more to be added): 
 - Process and Enterprise Maturity Model - Michael Hammer
 - Business Process Maturity Model (BPMM) by Bill Curtis and John Alden
@@ -240,7 +239,7 @@ More themes (more to be added):
 
 ## Seminar schedule
 
-### 12.10. Kick-off Meeting
+### [12.10.](2021-10-12/README.md) Kick-off Meeting
 
 Introduction to the seminar topic. Discussion of the seminar plan. (Gräbe)
 
