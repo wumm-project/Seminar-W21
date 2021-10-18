@@ -1,0 +1,353 @@
+\documentclass{beamer}
+\usepackage{lsfolien,enumitem}
+\usepackage[english]{babel}
+\setlist[itemize]{noitemsep,label={\color{blue}$\rhd$}}
+           
+\myfootline{Sustainability, Environment, Management -- Winter Term
+  2021}{Hans-Gert Gr\"abe}
+
+\newcommand{\ueberschrift}[1]{\begin{center}\bf #1\end{center}}
+
+\parskip1em
+
+\title{On the Notion of a System}
+
+\subtitle{Research Seminar in the Module 10-202-2309\\ for Master Computer
+  Science}
+
+\author{Prof. Dr. Hans-Gert Gräbe\\
+\url{http://www.informatik.uni-leipzig.de/~graebe}}
+
+\date{October 2021}
+\begin{document}
+
+{\setbeamertemplate{footline}{}
+\begin{frame}
+  \titlepage
+\end{frame}}
+
+\begin{frame}{What is a System?}
+  \begin{block}{V. Petrov}
+    A \emph{system} is a set of elements that are interconnected and interact
+    with each other, forming a unified whole that possesses properties that
+    are not already contained in the constituent elements considered
+    individually.
+  \end{block}
+
+  \begin{block}{TRIZ Ontology Project}
+    The necessity of the use of the term "system" occurs when it is required to
+    emphasize that something is large, complex, immediately not wholly
+    comprehensible, but at the same time a unified whole.
+
+    Unlike the notions "set" or "aggregate", the concept of a system emphasises
+    the ordering, the integrity, the regularity of construction, functioning and
+    development. 
+  \end{block}
+\end{frame}
+
+\begin{frame}{What is a System?}
+  \begin{block}{English Wikipedia on System Engineering}
+    At its core, systems engineering utilizes systems thinking principles to
+    organize this body of knowledge.
+
+    The individual outcome of such efforts, an engineered system, can be defined
+    as a combination of components that work in synergy to collectively perform
+    a useful function. 
+  \end{block}
+  
+In all these definitions, the \emph{structuredness} and thus
+\emph{decomposability} of the system in the analytic dimension is emphasised
+on the one hand, and the \emph{interdependence} and thus
+\emph{indecomposability} in the execution dimension on the other.
+
+\end{frame}
+
+\begin{frame}{What is a System?}
+In the assembled system in addition to the components, the \emph{connecting
+  elements} also play an important role.  They mediate the \emph{flow of
+  energy, material and information} that is required for the operation of each
+component.
+
+\begin{block}{}
+  Viable components deliver processual services in \emph{guaranteed} quantity
+  and quality during operation, if the \emph{external operational conditions}
+  are guaranteed.
+\end{block}
+
+These processual services of the components altogether in combination form the
+emergent function of the overall system.
+
+\begin{block}{Self-similarity of the concept}
+  Components can be considered as systems, where the upper system guarantees
+  the required for operation throughput of energy, substance and information.
+\end{block}
+\end{frame}
+
+\begin{frame}{What is a System?}
+  \begin{block}{
+    System concept as description of complicated real-world phenomena by
+    reduction to the essentials.}
+    \begin{itemize}
+    \item[(1)] Outer demarcation of the system against an \emph{environment},
+      reduction of these relationships to input/output relationships and
+      guaranteed throughput.
+    \item[(2)] Inner demarcation of the system by combining subareas to
+      \emph{components}, whose functioning is reduced to “behavioural control” via
+      input/output relations.
+    \item[(3)] Reduction of the relations in the system itself to “causally
+      essential” relationships.
+    \end{itemize}
+  \end{block}
+
+\end{frame}
+
+\begin{frame}{What is a System?}
+  \begin{block}{
+    Such a reductive description (explicitly or implicitly) exploits output from
+    prior life:}
+    \begin{itemize}
+    \item[(1)] An at least vague idea about the (working) input/output services of
+      the environment.
+    \item[(2)] A clear idea of the inner workings of the components (beyond the
+      pure specification).
+    \item[(3)] An at least vague idea about causalities in the system itself, that
+      precedes the detailed modelling.
+    \end{itemize}
+  \end{block}
+
+\end{frame}
+
+\begin{frame}{System, Components, Reuse}
+  For technical systems additionally the aspect of reuse plays an important
+  role.
+  
+This does not apply, at least on the artifact level, to larger technical
+systems – these are unique specimen, even though assembled using standardised
+components.
+
+Use of components produced by third parties (components off the shelf) is
+widespread in developed engineering.
+
+This ultimately turned the manufacturing of tools and products from an art first
+to a craft and later to an industrial process.
+
+\begin{block}{}
+  Hence the \emph{production by independent third parties} and thus the
+  technical-economic interrelationships of an industrial mode of production
+  based on the division of labour are to be considered.
+\end{block}
+
+\end{frame}
+
+\begin{frame}{System, Components, Reuse}
+  In such a context, the concept of a technical system is fourfold overloaded.
+
+  \begin{block}{A technical systems can be considered}
+    \begin{itemize}
+    \item [1.] as a real-world unique specimen (e.g. as a product or a service),
+    \item [2.] as a description of this real-world unique specimen (e.g. in the
+      form of a special product configuration)
+    \end{itemize}
+  \end{block}
+
+  \begin{block}{and for components produced in larger quantities also}
+    \begin{itemize}
+    \item [3.] as description of the design of the system template (product
+      design) and
+    \item [4.] as description and operation of the delivery and operating
+      structures of the real-world unique specimens of this system produced
+      according to this template (as production, quality assurance, delivery,
+      operational and maintenance plans).
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}{Socio-Technical Systems}
+
+Systems and social practices of cooperatively acting people.
+
+Systems and purposes.  Useful functions.
+
+Problematisation of purposefulness (Zweckmäßigkeit) in "natural", in
+particular socio-ecological systems.
+
+\begin{block}{Purposefulness ...}
+  ... transforms the totality of technical systems into an interconnected
+  \emph{world of techical systems} full of preconditions and conditionalities,
+  which opens up a fourth dimension of the concept of system, to secure stable
+  operating conditions of the systems themselves.
+\end{block}
+
+Socio-technical systems are, in addition to technical restrictions, charged
+with the contradictory expectations and interests of concrete people and
+groups of people.
+\end{frame}
+
+\begin{frame}{Socio-Technical Systems}
+
+  Ian Sommerville \emph{Software Engineering} elaborates a number of
+  challenges in this regard.
+
+  \begin{block} {Technical computer-based systems}
+    ... are systems that contain hardware and software components, but not
+    procedures and processes. ... Individuals and organizations use technical
+    systems for specific purposes, but knowledge of that purpose is not part
+    of the system.
+  \end{block}
+
+\end{frame}
+
+\begin{frame}{Socio-Technical Systems}
+
+  \begin{block}{Socio-technical systems}
+    ... contain one or more technical systems, but beyond that -- and this is
+    crucial -- the knowledge of how the system should be used to achieve a
+    broader purpose.\medskip
+
+    This means that these systems have \emph{defined work processes},
+    \emph{human operators} as integral part of the system, are \emph{governed
+      by organizational policies} and are \emph{affected by external
+      constraints} such as national laws and regulations.
+  \end{block}
+
+\end{frame}
+
+\begin{frame}{Essential Characteristics of Socio-Technical Systems}
+\begin{itemize}
+\item They have special properties that affect the system as a whole, and are
+  not related to individual parts of the system. These special properties
+  depend on the system components and the relationships between them. Because
+  of this complexity, the system-specific properties can only be evaluated
+  when the system is composed.\medskip
+\item They are often not deterministic. The behaviour of the system depends on
+  the human operators and on other people who do not always react in the same
+  way. Also, the operation of the system can change the system itself.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Essential Characteristics of Socio-Technical Systems}
+\begin{itemize}
+\item The extent to which the system supports organizational goals depends not
+  only on the system itself. It also depends on the \emph{stability of the
+    goals}, the relationships and \emph{conflicts between organizational
+    goals}, and how people in the organization \emph{interpret those goals}.
+\end{itemize}
+
+\begin{block}{}
+  In this context, there is a clear shift on the scale of controllability from
+  direct control by external human operators to indirect control and movement
+  according to intrinsic laws, which is even more prevalent in
+  \textbf{socio-economic systems} with a large number of stakeholders or even
+  \textbf{socio-ecological systems}.
+\end{block}
+\end{frame}
+
+\begin{frame}{Shchedrovitsky on Systems Analysis}
+  
+  The system concept serves to delimit a part of the complex, all-connected
+  world (\emph{reality}) in order to make this part accessible for
+  description.
+
+However, this human activity, which Georgi Shchedrovitsky (a Russian
+Philosopher and the head of the \emph{Methodological School of Management})
+refers to as \emph{mental activity} (Denktätigkeit), is itself part of that
+reality and thus also of practical relevance. Real-world processes are thereby
+charged with description forms.
+
+Thus in system theory these two dimensions -- description and operation --
+must be distinguished. Charging a system with a description form is what
+Engels' calls, in reference to Kant's \emph{thing in itself}, the
+transformation of the \emph{thing in itself} into a \emph{thing for us}.
+
+This concept is developed by Shchedrovitsky in greater detail.
+\end{frame}
+
+\begin{frame}{Theory of Dynamical Systems}
+
+The processual dimension of systems can be investigated with the mathematical
+tools of the Theory of Dynamical Systems if the processes can be modelled as
+equations of motion in phase space.
+
+Phase space and equations of motion. Notion of trajectory.
+
+Examples:\small
+\begin{itemize}
+\item Pendulum:\\ \url{https://en.wikipedia.org/wiki/Pendulum_(mechanics)}
+\item Two body problem:\\ \url{https://en.wikipedia.org/wiki/Two-body_problem}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{How Chaotic can Trajectories be?} 
+
+Examples: 
+\begin{itemize}
+\item Double Pendulum, \url{https://en.wikipedia.org/wiki/Double_pendulum}
+\item Magnetic pendulum with three attracting magnets,
+\item 3-body model: \url{https://en.wikipedia.org/wiki/Three-body_problem}
+\end{itemize}
+
+Not everything that looks like chaos has to be chaotic:\\
+\url{https://i.redd.it/zr7tet9mdfl01.gif}
+
+\end{frame}
+
+\begin{frame}{Attractors}
+
+Examples: 
+\begin{itemize}
+\item Pendulum,
+\item pendulum with three attracting magnets,
+\item pendulum with one repelling magnet.
+\end{itemize}
+
+Limit cycles: \url{https://en.wikipedia.org/wiki/Limit_cycle}
+
+When the body is on the limit cycle, it remains there, i.e. the limit cycle is
+a \emph{stable solution} of the equations of motion of the system, called
+\textbf{steady-state equilibrium}.
+    
+\end{frame}
+
+\begin{frame}{Attractors}
+
+In many cases the real movement $f(t)$ in time is \emph{attracted} by that
+limit cycle, i.e. $f(t)$ can be decomposed into $f(t)=l(t)+r(t)$ with $l(t)$
+the projection on the limit cycle and $r(t)\to 0$ a (small) orthogonal
+deviation.  In this way, it is often possible to simplify complicated models.
+
+An \textbf{attractor} is a specific steady-state equilibrium with just this
+attracting property.
+
+\url{https://en.wikipedia.org/wiki/Attractor}
+
+\end{frame}
+
+\begin{frame}{How Complicated can an Attractor be?}
+
+\begin{itemize}
+\item \url{https://en.wikipedia.org/wiki/Attractor}
+\item \url{https://en.wikipedia.org/wiki/Lorenz_system}
+\item \url{https://de.wikipedia.org/wiki/Lorenz-Attraktor}
+\item "Almost all initial points will tend to an invariant set – the Lorenz
+  attractor – a strange attractor, a fractal, and a self-excited attractor"
+  (Wikipedia)
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Dissipative Systems}
+
+  Closed and Open Systems
+
+  Relation between a (stable) external throughput of energy, matter and
+  information and the inner structure formation in systems.
+
+  \begin{itemize}
+  \item \url{https://en.wikipedia.org/wiki/Rayleigh-Benard_convection}
+  \item \url{https://en.wikipedia.org/wiki/Belousov-Zhabotinsky_reaction}
+  \item Dissipative systems
+    \url{https://en.wikipedia.org/wiki/Dissipative_system} 
+  \item Life on Earth as a dissipative system.
+  \end{itemize}
+\end{frame}
+\end{document}
