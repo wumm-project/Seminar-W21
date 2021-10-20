@@ -6,7 +6,8 @@
 ## Issues in the theory of dynamical systems
 
 - <https://en.wikipedia.org/wiki/Dynamical_system>
-- <https://de.wikipedia.org/wiki/Dynamisches_System_(systems theory)>
+- <https://de.wikipedia.org/wiki/Dynamisches_System>
+- <https://de.wikipedia.org/wiki/Dynamisches_System_(Systemtheorie)>
 
 ## First examples
 

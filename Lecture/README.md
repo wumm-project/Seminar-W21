@@ -2,26 +2,48 @@
 
 ## General Bibliography
 
-* Robert Adunka (2020). TRIZ Anwendungsbeispiele. 
-  * <https://www.triz-consulting.de/ueber-triz/triz-anwendungsbeispiele-2/> 
-* Iouri Belski (2020). Tools of TRIZ. A web repository of TRIZ materials
-  on 12 simple TRIZ heuristics.
-  * <https://emedia.rmit.edu.au/triz/content/tools-triz>
-* Gaetano Cascini (2012). TRIZ-based Anticipatory Design of Future Products
-  and Processes. Journal of Integrated Design and Process Science 16 (3),
-  29-63.  
-  * <http://dx.doi.org/10.3233/jid-2012-0005>
+* Peter L. Berger, Thomas Luckmann (1966). The Social Construction of Reality:
+  A Treatise in the Sociology of Knowledge. Anchor Books. ISBN
+  978-0-385-05898-8.
+  * In German: Die gesellschaftliche Konstruktion der Wirklichkeit: eine
+    Theorie der Wissenssoziologie. Fischer Taschenbuch Verlag 1994. ISBN
+    978-3-596-26623-4.
+* Raphael Capurro, Peter Fleissner, Wolfgang Hofkirchner (2000). Is a unified
+  theory of information feasible? A Trialogue.
+  - <http://www.capurro.de/trialog.htm>
+* Frank W. Geels, Johan Schot (2007). Typology of Sociotechnical Transition
+  Pathways. In: Research Policy 36 (2007), 399–417.
+  - <https://doi.org/10.1016/j.respol.2007.01.003>
+* Hans-Gert Gräbe (2020-1). Man and its technical systems (in German).  LIFIS
+  Online.
+  - <http://dx.doi.org/10.14625/graebe_20200519>
+* Hans-Gert Gräbe (2020-2). TRIZ and transformations of socio-technical and
+  socio-ecological systems (in German). LIFIS Online.
+  - <http://dx.doi.org/10.14625/graebe_20200627>
+* Hans-Gert Gräbe, Ken P. Kleemann (2020-3). Seminar Systemtheorie.
+  Universität Leipzig. Wintersemester 2019/20 (in German).  Rohrbacher
+  Manuskripte, Heft 22. ISBN 9783752620023.
+* C.S. Holling (2000). Understanding the Complexity of Economic, Ecological,
+  and Social Systems. In: Ecosystems (2001) 4, 390–405.
+  - <https://www.esf.edu/cue/documents/Holling_Complexity-EconEcol-SocialSys_2001.pdf>
+* Helmut Klemm (2003). Ein großes Elend. Informatik-Spektrum 26, S. 267–273.
+  - <http://dx.doi.org/10.1007/s00287-003-0316-2>
 * Karl Koltze, Valeri Souchkov (2017). Systematische Innovationsmethoden.
   Hanser Verlag, München. ISBN 9783446451278
-* Andrei Kuryan, Dmitri Kucharavy (2018). The OTSM-TRIZ Heritage of Nikolai
-  N. Khomenko. A General Theory of Powerful Thinking. Slides of a talk at TDS
-  2018 in St. Petersburg.
-  * [OTSM-Folien.pdf](http://www.informatik.uni-leipzig.de/~graebe/Material/OTSM-Folien.pdf)
-* Nikolai Khomenko, John Cooke (2007). Inventive problem solving using the
-  OTSM-TRIZ “TONGS” model.
-  * [tongs-en.pdf](http://www.informatik.uni-leipzig.de/~graebe/Material/tongs-en.pdf)
+* Alex Lyubomirskiy, Simon Litvin, Sergei Ikovenko et al. (2018). Trends of
+  Engineering System Evolution (TESE).  TRIZ Consulting Group. ISBN
+  9783000598463.
+* Michael Schetsche (2006). Die digitale Wissensrevolution – Netzwerkmedien,
+  kultureller Wandel und die neue soziale Wirklichkeit (in German). In:
+  zeitenblicke 5 (2006), Nr.~3.
+  - <http://www.zeitenblicke.de/2006/3/Schetsche>
+* Ian Sommerville (2015). Software Engineering. 10th edition.
+  - <http://iansommerville.com/software-engineering-book/>
+* Felix Stalder (2016). Kultur der Digitalität (in German). Suhrkamp.
 * Clemens Szyperski (2002). Component Software. Pearson Education. 2. Auflage.
   ISBN 0201745720.
+* Rainer Thiel (2000). Die Allmählichkeit der Revolution. Blick in sieben
+  Wissenschaften (in German).  LIT-Verlag, Münster. ISBN 9783825849457.
 
 ## October 14: Introduction. Concept of technology
 
@@ -34,50 +56,10 @@ __Slides:__
 * [Introduction](Intro.pdf)
 * [Technology](Technik.pdf)
 
-## October 21: Technical Systems
+## October 21: Systems and their Development
 
-__Literature__:
+__Literature__: (Gräbe 2020-1), (Gräbe 2020-2), (Gräbe 2020-3)
 
-* Hans-Gert Gräbe (2020). People and their technical systems (in German).
-  LIFIS Online, 19. Mai 2020.
-  * <http://dx.doi.org/10.14625/graebe_20200519>
-  
-__Learning Objectives:__
-* Distinction between forms of description and forms of execution in technical
-  systems
-* Technical systems and reduction of complexity as "reduction to the
-  essentials"
-* Infrastructural embedding of technical systems in the "world of technical
-  systems".
-
-## Occtober 28: Modelling contradictory requirements in TRIZ
-
-__Literature__:
-* Hans-Gert Gräbe (2021): Solving problems with TRIZ and AIPS-2015.
-  <https://wumm-project.github.io/Texts/Graebe-2021a-en.pdf> 
-* (Kuryan, Kucharavy 2018), starting with slide 31.
-* (Cascini 2012)
-
-__Additional Reading__:
-* (Koltze, Souchkov 2017)
-* (Adunka 2020)
-* (Szyperski 2002)
-
-__Learning Objectives__:
-* TRIZ's basic approach to conflicting requirements.
-* Concrete and abstract. The TRIZ Hill Scheme
-* Contextualisation of requirements situations
-* Determining the purpose and MUF (main useful function) of a technical system
-* Structural and processual organisation of a system
-* Useful and harmful effects, operative zone and operative time of
-  conflicting system properties
-
-## November 06: Modelling Natural Systems and the Theory of Open Systems
-
-__Literature__:
-* Hans-Gert Gräbe (2020).  On the concept of system in the Theory of Dynamical
-  Systems. See the listing of web sites at [TDS.md](TDS.md).
-  
 __Additional Reading__:
 * Ludwig von Bertalanffy (1950). An outline of General System Theory, The
   British Journal for the Philosophy of Science, Volume I.2, 134–165.
@@ -90,18 +72,22 @@ __Additional Reading__:
 * Ilya Prigogine, Isabelle Stengers (1984). Order out of Chaos: Man's new
   dialogue with nature. ISBN 0-00-654115-1.
 
-__Learning Objectives__:
-* Development of a system. Ideal line and real line of development.
-* The basic approach of the Theory of Dynamical Systems (TDS).
-* Dynamics in open systems. Limit cycles and attractors.
-* Simple description, complex execution. Deterministic chaos.
-* Systems and "environment". Immersive and submersive concept of a system.
+__Learning Objectives:__
 
-## November 11: Sustainability and Development Cycles of Systems
+* System definition, description and execution form of systems
+* Systems and human practice 
+* Open and closed systems
+* Modelling systems
+* Development of a system. Ideal line and real line of development.
+* Immersive and submersive concept of a system.
+
+__Slides:__
+* [System Notion and Development](SystemNotion.pdf)
+* [Immersive and Submersive Systems](ImmersiveSubmersive.pdf)
+
+## October 28: Sustainability and Development Cycles of Systems
 
 __Literature__:
-* Hans-Gert Gräbe (2020).  On the concept of system in the Theory of Dynamical
-  Systems. See the listing of web sites at [TDS.md](TDS.md) (to do).
 * Frank W. Geels, Johan Schot (2007). Typology of Sociotechnical Transition
   Pathways. In: Research Policy 36 (2007), 399–417.
   * <https://doi.org/10.1016/j.respol.2007.01.003> 
@@ -121,14 +107,14 @@ __Additional Reading__:
   Wissenschaften.  LIT-Verlag, Münster. ISBN 9783825849457.
 
 __Learning Objectives__:
-* Open systems. Throughput and structure. The Bénard cell example.
-* Eigentimes and eigenspaces of systems.
+* On the notion of sustainability.
+* The real sustainability challenges.
 * Dissipative structures and steady states.
 * Coevolution at micro and macro levels. "Enslavement effect"
 * Evolution of systems, boundary crossings and recontextualisations. 
 * Systemic transformation processes
 
-## November 18: The Digital Universe. The Digital Transformation as Techno-Cultural Progress
+## November 04: The Digital Universe. The Digital Transformation as Techno-Cultural Progress
 
 __Literature__:
 * Michael Schetsche: Die digitale Wissensrevolution – Netzwerkmedien,
@@ -143,14 +129,14 @@ __Learning Objectives__:
 * World and reality. World as reality _for us_. Action.
 * Concepts _digital universe_ and _digital identity_.
 
-## November 25: Digital Space of Action.
+## November 11: Digital Space of Action.
 
 __Learning Objectives__:
 * Concepts _digital universe_ and _digital identity_.
 * Authentication and authorisation as socio-technical processes.
 * Digital identities and roles
 
-## December 02: Internet Basics. RDF Basics.
+## November 18: Internet Basics. RDF Basics.
 
 __Literature__:
 * Wikipedia
@@ -169,7 +155,7 @@ __Learning Objectives__:
 * RDF concepts. RDF graphs, pattern search, SPARQL query language.
 * RDF Tools. RDF Stores, SPARQL Endpoints
 
-## December 09: Modelling Conceptual Worlds.
+## November 25: Modelling Conceptual Worlds.
 
 __Literature__:
 * Marc Zobrist (2018). Ontologien und Datenmodelle. 
@@ -185,7 +171,7 @@ __Learning Objectives__:
 * The Linked Open Data Cloud
 * Examples of ontologies
 
-## December 16: Conceptual Worlds and the Giant Global Graph. Data and Information
+## December 02: Conceptual Worlds and the Giant Global Graph. Data and Information
 
 __Learning Objectives__:
 * Ontologies and applications
@@ -195,7 +181,7 @@ __Learning Objectives__:
 * Data and Information
 * Syntax, Semantics, Pragmatics
 
-## January 06: Storytelling, Conceptualisation, Information and Language
+## December 09: Storytelling, Conceptualisation, Information and Language
 
 __Literature__:
 * Helmut Klemm (2003). Ein großes Elend. Informatik-Spektrum 26, S. 267–273. 
@@ -217,7 +203,7 @@ __Learning Objectives__:
 * Storytelling and action
 * Information and language
 
-## January 13: Knowledge and Action
+## December 16: Knowledge and Action
 
 __Literature__:
 * Berger, Luckmann (1969/1994): The Social Construction of Reality.  In
@@ -231,7 +217,7 @@ __Learning Objectives__:
 * Cooperative practices and their development
 * Conditions of possibility of action in civil society 
 
-## January 20: Cooperative action and digital transformation
+## January 06: On a theory of Cooperative action
 
 __Learning Objectives__:
 
@@ -240,28 +226,18 @@ __Learning Objectives__:
   transformation
 * Conditionalities and necessity of Open Culture
 
-## January 27: Formation of an Open Culture
+## January 13: Economic network structures 
 
 __Learning Objectives__:
 * Open Culture and infrastructure development
 * Services and business models under the conditions of Open Culture
 
-__Slides:__
-* [Cooperative Action and Digital Change](CooperativeAction.pdf)
-* [The History of the .NET Project](DotNet.pdf)
-* [Open Culture](OpenCulture.pdf) (Additional reading) 
+## January 20: The History of the .NET Project
+
+## January 27: Formation of an Open Culture
 
 ## February 03: Formation of an Open Culture
 
-__Learning Objectives__:
-* Open Culture and infrastructure development
-* Services and business models under the conditions of Open Culture
-
-__Slides:__
-* [Cooperative Action and Digital Change](CooperativeAction.pdf)
-* [The History of the .NET Project](DotNet.pdf)
-* [Open Culture](OpenCulture.pdf) (Additional reading) 
-
-## February 05: Optional: Interdisziplinary Discussion
+## February 05: Optional: Interdisciplinary Block Seminar
 
 to be announced
