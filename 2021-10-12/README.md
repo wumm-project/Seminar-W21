@@ -32,14 +32,15 @@ mündliche Prüfung.
 Bitte schreiben Sie sich im OPAL zügig in die entsprechende Gruppe ein, damit
 der Kurs entsprechend genauer geplant werden kann.
 
-Bitte beachten Sie dass __der Zugang zum TRIZ-Trainer kostenpflichtig ist__.
+Bitte beachten Sie, dass __der Zugang zum TRIZ-Trainer kostenpflichtig ist__.
 Dies betrifft Studierende, die das Vertiefungsmodul oder das Praktikumsmodul
 belegen.  Detail werden mündlich erläutert.
 
-Da die Veranstaltungen alle online stattfinden, haben wir einzelne
-Bestandteile oder auch den ganzen Kurs __für externe Teilnehmer__ geöffnet.
-Die alleinige Teilnahme an Vorlesung und Seminar ist kostenfrei, es wird auch
-keine Seminarleistung erwartet, das TRIZ-Praktikum ist kostenpflichtig.
+Einzelne Bestandteile oder auch der ganze Kurs ist __für externe Teilnehmer__
+geöffnet.  Die alleinige Teilnahme an Vorlesung und Seminar ist kostenfrei, es
+wird auch keine Seminarleistung erwartet, das TRIZ-Praktikum ist
+kostenpflichtig.  Eine ggf. gewünschte Anrechung von Credits bedarf weiterer
+Abstimmung.
 
 ## Plan of the course (in English)
 

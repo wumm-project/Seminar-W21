@@ -38,16 +38,22 @@ written in English.
   
   Available as e-book <https://doi.org/10.1017/9781139016735> at UB Leipzig.
 
+* Hans-Gert Gräbe (2020a). TRIZ and Systemic Transitions.
+  <https://hg-graebe.de/EigeneTexte/sys-20-en.pdf>
+
+* Hans-Gert Gräbe (2020b). Men and their technical systems.  Proceedings of the
+  TRIZ Future Conference 2020, p. 399-410.
+  <https://hg-graebe.de/EigeneTexte/DAT-20-en.pdf>
+  * Enlarged German version: <http://dx.doi.org/10.14625/graebe_20200519>
+
+* Hans-Gert Gräbe, Ken Pierre Kleemann (2020c).  Seminar Systemtheorie (in
+  German). Universität Leipzig. Wintersemester 2019/20.  Rohrbacher
+  Manuskripte, Heft 22.  Book on Demand 2020. ISBN 9783752620023.
+  * Open Access: <https://nbn-resolving.org/urn:nbn:de:bsz:15-qucosa2-748430>
+
 * Innovation management - Fundamentals and terminology (ISO 56000:2020).
 
   Available in the HTWK Library.  
-
-* Viktor B. Khristenko, Andrei G. Reus, Alexander P. Zinchenko et al. (2014).
-  Methodological School of Management. Bloomsbury Publishing.  ISBN
-  978-1-4729-1029-5.
-
-  Available as e-book at UB Leipzig
-  <https://ebookcentral.proquest.com/lib/leip/detail.action?docID=6159470>
 
 * A. Koschmider, R. Laue, M. Fellmann (2019). Business Process Model
   Anti-Patterns: A Bibliography and Taxonomy of Published Work. In Proceedings
@@ -76,11 +82,24 @@ written in English.
 
 * Georgi P. Shchedrovitsky (1981). Principles and General Scheme of the
   Methodological Organization of System-Structural Research and Development.
-  <https://wumm-project.github.io/Texts/Principles-1981-en.pdf>
+  <https://wumm-project.github.io/Texts/Shchedrovitsky/Principles-1981-en.pdf>
+
+* Georgi P. Shchedrovitsky (2014). Selected Works. A Guide to the Methodology
+  of Organisation, Leadership and Management. In: Khristenko, Reus, Zinchenko
+  et al. Methodological School of Management. Bloomsbury Publishing.  ISBN
+  978-1-4729-1029-5.
+
+  Available as e-book at UB Leipzig
+  <https://ebookcentral.proquest.com/lib/leip/detail.action?docID=6159470>
   
 * C.U. Smith, L.G. Williams, L.G. (2000). Software Performance Antipatterns.
   In Proceedings oft he 2nd Internaional Workshop on Software and Performance.
   ACM, New York, USA, pp. 127-136.
+
+* Ian Sommerville (2015). Software Engineering.  Chapter 19 „Systems
+  Engineering“.
+  - Slide stack available at Sildeshare
+    <https://www.slideshare.net/software-engineering-book/ch19-systems-engineering>
 
 * Valeri Souchkov (2010).  TRIZ and Systematic Business Model Innovation.  In:
   Proceedings TRIZ Future Conference 2010, Bergamo, Italy.  Available at
@@ -243,9 +262,9 @@ More themes (more to be added):
 
 Introduction to the seminar topic. Discussion of the seminar plan. (Gräbe)
 
-### 19.10. The Notion of a System. Definitions, Examples, Mathematics. (Gräbe) 
+### [19.10.](2021-10-19/README.md) On the Notion of a System. (Gräbe)
 
-### 26.10. Systems, Management, Organizations. General Management Challenges (Gräbe)
+### [26.10.](2021-10-26/README.md) Systems, Organisations, Management. (Gräbe)
 
 ### 02.11. Theme 1. First student presentation.
 
