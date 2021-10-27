@@ -85,7 +85,7 @@ __Slides:__
 * [System Notion and Development](SystemNotion.pdf)
 * [Immersive and Submersive Systems](ImmersiveSubmersive.pdf)
 
-## October 28: Sustainability and Development Cycles of Systems
+## October 28: Systems, Sustainability, Development
 
 __Literature__:
 * Frank W. Geels, Johan Schot (2007). Typology of Sociotechnical Transition
@@ -94,25 +94,25 @@ __Literature__:
 * Hans-Gert Gräbe (2020). TRIZ and transformations of socio-technical and
   socio-ecological systems. (in German). LIFIS Online, 27.06.2020.
   * <http://dx.doi.org/10.14625/graebe_20200627>
-* C.S. Holling (2000). Understanding the Complexity of Economic, Ecological,
+* C.S. Holling (2001). Understanding the Complexity of Economic, Ecological,
   and Social Systems. In: Ecosystems (2001) 4, 390–405.
   * <https://www.esf.edu/cue/documents/Holling_Complexity-EconEcol-SocialSys_2001.pdf>
   
 __Additional Reading__:
 * Mike Davis (2010).   Who will build the ark? New Left Review 61, 2010.
-* Hans-Gert Gräbe (2012). What is progress? (in German) LIFIS Online,
-  12.11.2012.
-  * <http://www.leibniz-institut.de/archiv/graebe_12_11_12.pdf>
 * Rainer Thiel (2000). Die Allmählichkeit der Revolution. Blick in sieben
   Wissenschaften.  LIT-Verlag, Münster. ISBN 9783825849457.
 
 __Learning Objectives__:
 * On the notion of sustainability.
-* The real sustainability challenges.
-* Dissipative structures and steady states.
-* Coevolution at micro and macro levels. "Enslavement effect"
-* Evolution of systems, boundary crossings and recontextualisations. 
-* Systemic transformation processes
+* Sustainability challenges.
+* Fundamental challenges and their relation to the development of a civil
+  society
+* Fundamental challenges and digital technologies
+* Systems and development of systems
+
+__Slides:__
+* [Sustainability, Systems, Development](Sustainability.pdf)
 
 ## November 04: The Digital Universe. The Digital Transformation as Techno-Cultural Progress
 

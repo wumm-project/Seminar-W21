@@ -1,0 +1,18 @@
+# Seminar on November 09, 2021
+
+## Short Announcement
+
+* __Theme:__   Business TRIZ
+* __Presenter:__ Michelle Bindel
+
+## Abstract
+
+Business TRIZ is a development direction within systematic innovation
+methodologies in which contradictory requirements and problematic situations
+in the area of management in companies are considered and the classic tools of
+TRIZ are examined for their applicability and need for modification in this
+non-technical area. In these developments it becomes clear on the one hand to
+what extent engineering methods have already found their way into modern
+management. On the other hand, the necessary modifications of classical TRIZ
+tools required in these applications lead to a better understanding of
+overarching systemic phenomena.
