@@ -17,3 +17,6 @@ industry consortium in standardisation processes should be presented and, on
 the other hand, the systematics of modelling and terms developed in this
 process should be discussed in more detail and their relation to systemic
 thinking be examined.
+
+__Literature:__ APQC’s Process Classification Framework (PCF), additional
+recherche required

@@ -16,3 +16,5 @@ what extent engineering methods have already found their way into modern
 management. On the other hand, the necessary modifications of classical TRIZ
 tools required in these applications lead to a better understanding of
 overarching systemic phenomena.
+
+__Literature:__ (Souchkov 2010), (Souchkov 2014)

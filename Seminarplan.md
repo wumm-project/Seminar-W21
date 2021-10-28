@@ -188,8 +188,6 @@ written in English.
    this area are to be presented based on the background of the business
    process concepts discussed earlier in the seminar.
    
-   __Literature:__  (Souchkov 2010), (Souchkov 2014)
-
 6. Schematisation in the Work of G.P. Shchedrovitsky
 
    __Goal:__ All concepts discussed so far address Business Process Modelling
