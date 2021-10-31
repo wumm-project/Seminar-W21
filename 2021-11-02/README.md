@@ -2,7 +2,7 @@
 
 ## Short Announcement
 
-* __Theme:__   PCE - The APQC Process Classification Framework
+* __Theme:__   PCF - The APQC Process Classification Framework
 * __Presenter:__ Piotr Teitlin
 
 ## Abstract
