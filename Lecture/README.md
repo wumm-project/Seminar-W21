@@ -23,7 +23,7 @@
 * Hans-Gert Gräbe, Ken P. Kleemann (2020-3). Seminar Systemtheorie.
   Universität Leipzig. Wintersemester 2019/20 (in German).  Rohrbacher
   Manuskripte, Heft 22. ISBN 9783752620023.
-* C.S. Holling (2000). Understanding the Complexity of Economic, Ecological,
+* C.S. Holling (2001). Understanding the Complexity of Economic, Ecological,
   and Social Systems. In: Ecosystems (2001) 4, 390–405.
   - <https://www.esf.edu/cue/documents/Holling_Complexity-EconEcol-SocialSys_2001.pdf>
 * Helmut Klemm (2003). Ein großes Elend. Informatik-Spektrum 26, S. 267–273.
@@ -85,45 +85,28 @@ __Slides:__
 * [System Notion and Development](SystemNotion.pdf)
 * [Immersive and Submersive Systems](ImmersiveSubmersive.pdf)
 
-## October 28: Systems, Sustainability, Development
+## October 28: Systems and Sustainability
 
-__Literature__:
-* Frank W. Geels, Johan Schot (2007). Typology of Sociotechnical Transition
-  Pathways. In: Research Policy 36 (2007), 399–417.
-  * <https://doi.org/10.1016/j.respol.2007.01.003> 
-* Hans-Gert Gräbe (2020). TRIZ and transformations of socio-technical and
-  socio-ecological systems. (in German). LIFIS Online, 27.06.2020.
-  * <http://dx.doi.org/10.14625/graebe_20200627>
-* C.S. Holling (2001). Understanding the Complexity of Economic, Ecological,
-  and Social Systems. In: Ecosystems (2001) 4, 390–405.
-  * <https://www.esf.edu/cue/documents/Holling_Complexity-EconEcol-SocialSys_2001.pdf>
-  
 __Additional Reading__:
+* (Geels/Schot 2007), (Gräbe 2020-2), (Holling-2001), (Thiel-2000).
 * Mike Davis (2010).   Who will build the ark? New Left Review 61, 2010.
-* Rainer Thiel (2000). Die Allmählichkeit der Revolution. Blick in sieben
-  Wissenschaften.  LIT-Verlag, Münster. ISBN 9783825849457.
 
 __Learning Objectives__:
 * On the notion of sustainability.
 * Sustainability challenges.
-* Fundamental challenges and their relation to the development of a civil
-  society
-* Fundamental challenges and digital technologies
-* Systems and development of systems
+* Challenges and development aspects of a civil society
+* Relation between fundamental challenges and digital technologies
 
 __Slides:__
-* [Sustainability, Systems, Development](Sustainability.pdf)
+* [Systems and Sustainability](Sustainability.pdf)
 
-## November 04: The Digital Universe. The Digital Transformation as Techno-Cultural Progress
+## November 04: The Digital Universe and Digital Rooms of Action. 
 
 __Literature__:
-* Michael Schetsche: Die digitale Wissensrevolution – Netzwerkmedien,
-  kultureller Wandel und die neue soziale Wirklichkeit. In: zeitenblicke 5
-  (2006), Nr. 3, [2006-12-03].
-  * <http://www.zeitenblicke.de/2006/3/Schetsche>
+* (Holling-2001), (Thiel-2000), (Schetsche-2006) 
 
 __Additional Reading__:
-* Felix Stalder. Kultur der Digitalität. Suhrkamp 2016.
+* (Stalder-2016)
 
 __Learning Objectives__:
 * World and reality. World as reality _for us_. Action.
