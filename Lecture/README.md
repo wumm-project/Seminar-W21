@@ -100,19 +100,28 @@ __Learning Objectives__:
 __Slides:__
 * [Systems and Sustainability](Sustainability.pdf)
 
-## November 04: The Digital Universe and Digital Rooms of Action. 
+## November 04: Systemic Structures and Action Spaces
 
 __Literature__:
-* (Holling-2001), (Thiel-2000), (Schetsche-2006) 
+* (Holling-2001)
 
 __Additional Reading__:
 * (Stalder-2016)
 
 __Learning Objectives__:
+* Ubiquity of systemic structures.
+* Development of systemic structures.
+* Interlinking of system developments. Coevolution.
+* The concept of action spaces.
 * World and reality. World as reality _for us_. Action.
-* Concepts _digital universe_ and _digital identity_.
 
-## November 11: Digital Space of Action.
+## November 11: Digital Action Spaces
+
+__Literature__:
+* (Thiel-2000), (Schetsche-2006) 
+
+__Additional Reading__:
+* (Stalder-2016)
 
 __Learning Objectives__:
 * Concepts _digital universe_ and _digital identity_.
