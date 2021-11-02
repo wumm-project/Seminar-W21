@@ -90,3 +90,12 @@ Hans-Gert Gräbe:
 
 - What is the (common) basic metadata structure of a single element in the
   framework?
+
+Sources:
+* https://www.apqc.org/system/files/resource-file/2020-02/PPM-IntroPCF.pdf
+* https://www.apqc.org/system/files/resource-file/2020-01/PPM-UnderstandingPCFElements.pdf
+* https://www.apqc.org/system/files/resource-file/2020-01/PPM-ApplyingPCFforBusinessValue_0.pdf
+* https://www.linkedin.com/pulse/process-classification-framework-calvin-kiboma
+* https://www.youtube.com/watch?v=_0EstDPyr1c
+* https://www.youtube.com/watch?v=--mO-dAC28s
+* https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-aerospace-and-defense-0
