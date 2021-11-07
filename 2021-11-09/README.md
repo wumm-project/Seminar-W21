@@ -22,3 +22,7 @@ __Literature:__ (Souchkov 2010), (Souchkov 2014)
 - Results of Business TRIZ Online Spring 2021
   <http://wumm.uni-leipzig.de/conferences.php?conference=http://wumm.uni-leipzig.de/rdf/BusinessTRIZ-2021.rdf>
 - <http://xtriz.com/>
+
+## Material
+
+* [Handout](Handout.pdf)
