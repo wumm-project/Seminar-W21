@@ -16,6 +16,10 @@ written in English.
 * The APQC’s Process Classification Framework (PCF).
   <https://www.apqc.org/process-frameworks>
 
+* APCQ (2018). Cross Industry Process Classification Framework v.7.2.1
+
+* APCQ (2021). Best Practices in Applying Process Frameworks. 
+
 * N.M.P. Bocken, S.W. Short, P. Rana, S. Evans (2014). A literature and
   practice review to develop sustainable business model archetypes.  Journal
   of Cleaner Production.  Volume 65, pp. 42-56.
