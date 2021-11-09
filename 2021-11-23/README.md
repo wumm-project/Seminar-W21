@@ -5,7 +5,7 @@
 * __Theme:__ Coordination Processes in SCOR - the Supply Chain Operations
   Reference Model
 
-* __Presenter:__ Vera Piontkowitz
+* __Presenter:__ NN
 
 ## Abstract
 

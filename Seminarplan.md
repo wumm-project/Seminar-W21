@@ -116,6 +116,11 @@ written in English.
 * Valeri Souchkov (2017).  Accelerate Innovation with TRIZ.
   <http://www.xtriz.com/publications/AccelerateInnovationWithTRIZ.pdf>
 
+* Valeri Souchkov (2019).  TRIZ for Business and Management: State of the Art.
+  TRIZ Developers Summit 2019.
+
+  <http://www.xtriz.com/publications/AccelerateInnovationWithTRIZ.pdf>
+
 * Yariv Taran, Christian Nielsen, Marco Montemari, Peter Thomsen, Francesco
   Paolone (2016). Business model configurations: a five-V framework to map out
   potential innovation routes. European Journal of Innovation Management
@@ -271,15 +276,15 @@ Introduction to the seminar topic. Discussion of the seminar plan. (Gräbe)
 
 ### [26.10.](2021-10-26/README.md) Systems, Organisations, Management. (Gräbe)
 
-### 02.11. Theme 1. First student presentation.
+### [02.11.](2021-11-02/README.md) PCF - the APQC Process Classification Framework (P. Teitlin)
 
-### 09.11. Theme 2.
+### [09.11.](2021-11-09/README.md) Business TRIZ (M. Bindel)
 
-### 16.11. Theme 3.
+### [16.11.](2021-11-16/README.md) Agent Based Business Systems (S. Härtel) 
 
-### 23.11. Theme 4.
+### [23.11.](2021-11-23/README.md) SCOR - the Supply Chain Operations Refernce Model (NN)
 
-### 30.11. Theme 5.
+### [30.11.](2021-11-30/README.md) Business Process Landscaping (T. Pfeiffer) 
 
 ### 07.12. Theme 6.
 
