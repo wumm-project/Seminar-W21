@@ -113,6 +113,9 @@ written in English.
   and Management: An Overview.
   <http://www.xtriz.com/TRIZforBusinessAndManagement.pdf>
 
+* Valeri Souchkov (2017).  Accelerate Innovation with TRIZ.
+  <http://www.xtriz.com/publications/AccelerateInnovationWithTRIZ.pdf>
+
 * Yariv Taran, Christian Nielsen, Marco Montemari, Peter Thomsen, Francesco
   Paolone (2016). Business model configurations: a five-V framework to map out
   potential innovation routes. European Journal of Innovation Management
