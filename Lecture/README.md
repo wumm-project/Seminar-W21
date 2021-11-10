@@ -2,6 +2,8 @@
 
 ## General Bibliography
 
+* Russell L. Ackoff (1971). Towards a system of systems concept.  Management
+  Science 17 (11), 661-671.
 * Peter L. Berger, Thomas Luckmann (1966). The Social Construction of Reality:
   A Treatise in the Sociology of Knowledge. Anchor Books. ISBN
   978-0-385-05898-8.
@@ -102,11 +104,9 @@ __Slides:__
 
 ## November 04: Systemic Structures and Action Spaces
 
-__Literature__:
-* (Holling-2001)
+__Literature__: (Ackoff-1091), (Holling-2001)
 
-__Additional Reading__:
-* (Stalder-2016)
+__Additional Reading__: (Stalder-2016)
 
 __Learning Objectives__:
 * Ubiquity of systemic structures.
@@ -117,11 +117,9 @@ __Learning Objectives__:
 
 ## November 11: Digital Action Spaces
 
-__Literature__:
-* (Thiel-2000), (Schetsche-2006) 
+__Literature__: (Thiel-2000), (Schetsche-2006) 
 
-__Additional Reading__:
-* (Stalder-2016)
+__Additional Reading__: (Stalder-2016)
 
 __Learning Objectives__:
 * Concepts _digital universe_ and _digital identity_.

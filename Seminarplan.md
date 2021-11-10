@@ -6,6 +6,9 @@ written in English.
 
 ## Literatur
 
+* Russell L. Ackoff (1971). Towards a system of systems concept.  Management
+  Science 17 (11), 661-671.
+
 * Klaus-Michael Ahrend (2019). Geschäftsmodell Nachhaltigkeit: Ökologische und
   soziale Innovationen als unternehmerische Chance. In W. Leal Filho (Hrsg.),
   Aktuelle Ansätze zur Umsetzung der UN-Nachhaltigkeitsziele, S. 43-62.
