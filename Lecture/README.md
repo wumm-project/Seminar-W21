@@ -115,6 +115,9 @@ __Learning Objectives__:
 * The concept of action spaces.
 * World and reality. World as reality _for us_. Action.
 
+__Slides:__
+* [Systemic Structures and Action Spaces](ActionSpace.pdf)
+
 ## November 11: Digital Action Spaces
 
 __Literature__: (Thiel-2000), (Schetsche-2006) 
@@ -122,11 +125,20 @@ __Literature__: (Thiel-2000), (Schetsche-2006)
 __Additional Reading__: (Stalder-2016)
 
 __Learning Objectives__:
+* Summary on central notions introduced so far
+  * System, systemic structure, action space
+  * Analysis, synthesis, evaluation - three phases of schematisation
+* Data as specific form of description.
+* Data as a link between world and reality.
+* Data as a form of cooperative practices of people as subjects.
+* Digital Universe and digital transformation.
+* Acting in Digital Action Spaces.
 * Concepts _digital universe_ and _digital identity_.
-* Authentication and authorisation as socio-technical processes.
-* Digital identities and roles
 
-## November 18: Internet Basics. RDF Basics.
+__Slides:__
+* [Digital Action Spaces](DigitalActionSpace.pdf)
+
+## November 18: Digital Action Spaces. Internet Basics. RDF Basics.
 
 __Literature__:
 * Wikipedia
@@ -134,16 +146,23 @@ __Literature__:
   Engineering operativ-administrativer Daten für die universitäre Lehre.
   Manuskript, September 2011.
   * <http://www.informatik.uni-leipzig.de/~graebe/Texte/delfi-11.pdf>
-* Hans-Gert Gräbe (seit 2007). Das OD.FMI Projekt. 
+* Hans-Gert Gräbe (2007-2020). Das OD.FMI Projekt. 
   * <http://www.informatik.uni-leipzig.de/~graebe/Forschung/EEE/ODQuelle.html>
 
 __Learning Objectives__:
+* Concepts _digital universe_ and _digital identity_.
+* The role of the concept of identity in a civil bourgeois society. 
+* Authentication and authorisation as socio-technical processes.
+* Digital identities and roles
 * Internet Basics
 * The OSI 7-layer model
 * Management of IPs and computer names
 * RDF basics: URI, namespace, subject, predicate, object.
 * RDF concepts. RDF graphs, pattern search, SPARQL query language.
 * RDF Tools. RDF Stores, SPARQL Endpoints
+
+__Slides:__
+* [Digital Action Spaces](DigitalActionSpace.pdf)
 
 ## November 25: Modelling Conceptual Worlds.
 

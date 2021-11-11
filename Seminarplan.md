@@ -262,12 +262,21 @@ written in English.
 
    __Literature:__ (Lüdeke-Freund et al. 2018)
 
-More themes (more to be added): 
+More themes: 
 - Process and Enterprise Maturity Model - Michael Hammer
 - Business Process Maturity Model (BPMM) by Bill Curtis and John Alden
 - Business Process Modelling und TRIZ
 - Case Management Model and Notation (CMMN)
 - Decision Model and Notation (DMN)
+- TRIZ Business Navigator <https://sites.google.com/view/trizbm/>
+- Gassmann on Business Models
+  - Oliver Gassmann, Karolin Frankenberger, Michaela Csik (2013). The
+    St. Gallen Business Model Navigator
+- Osterwalder on Business Models
+  - Osterwalder, A., Pine, I. (2013) Building of business models
+- How to hold strategic sessions via TRIZ tools (A. Kozhemyako)
+  <https://bmtriz.ru/how-to-hold-strategic-sessions-via-triz-tools/>
+- Inventive Supply Chain Engineering (Alex Sidorec at BTO Fall 2021)  
 
 ## Seminar schedule
 
