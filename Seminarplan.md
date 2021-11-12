@@ -280,36 +280,41 @@ More themes:
 
 ## Seminar schedule
 
-### [12.10.](2021-10-12/README.md) Kick-off Meeting
+- [12.10.](2021-10-12/README.md) Kick-off Meeting
+  - Introduction to the seminar topic. Discussion of the seminar plan. (Gräbe)
+  
+- [19.10.](2021-10-19/README.md) On the Notion of a System. (Gräbe)
 
-Introduction to the seminar topic. Discussion of the seminar plan. (Gräbe)
+- [26.10.](2021-10-26/README.md) Systems, Organisations, Management. (Gräbe)
 
-### [19.10.](2021-10-19/README.md) On the Notion of a System. (Gräbe)
+- [02.11.](2021-11-02/README.md) PCF - the APQC Process Classification
+  Framework (P. Teitlin)
 
-### [26.10.](2021-10-26/README.md) Systems, Organisations, Management. (Gräbe)
+- [09.11.](2021-11-09/README.md) Business TRIZ (Michelle Bindel)
 
-### [02.11.](2021-11-02/README.md) PCF - the APQC Process Classification Framework (P. Teitlin)
+- [16.11.](2021-11-16/README.md) Agent Based Business Systems (Stefan Härtel)
 
-### [09.11.](2021-11-09/README.md) Business TRIZ (M. Bindel)
+- [23.11.](2021-11-23/README.md) SCOR - the Supply Chain Operations Refernce
+  Model (Gräbe)
 
-### [16.11.](2021-11-16/README.md) Agent Based Business Systems (S. Härtel) 
+- [30.11.](2021-11-30/README.md) Business Process Landscaping (Toni Pfeiffer)
 
-### [23.11.](2021-11-23/README.md) SCOR - the Supply Chain Operations Refernce Model (NN)
+- [07.12.](2021-12-07/README.md) Schematisation in the Work of
+  G.P. Shchedrovitsky (Marvin Müller)
 
-### [30.11.](2021-11-30/README.md) Business Process Landscaping (T. Pfeiffer) 
+- [14.12.](2021-12-14/README.md) Process Improvement Patterns. Exploitative
+  and Explorative Business Process Improvements (Alexander Pavlovski)
 
-### 07.12. Theme 6.
+- [04.01.](2022-01-04/README.md) Business Innovation in ISO 56000:2020
+  (Maximilian Ressel)
 
-### 14.12. Theme 7.
+- [11.01.](2022-01-11/README.md) Sustainable Business Model Patterns and
+  Anti-Patterns (Lucie Davis)
 
-### 04.01. Theme 8.
+- [18.01.](2022-01-18/README.md) tba
 
-### 11.01. Theme 9.
+- [25.01.](2022-01-25/README.md) tba
 
-### 18.01. 
+- 01.02. Evaluation and lessons learned
 
-### 25.01.
-
-### 01.02. Evaluation and lessons learned
-
-### Optional 04.02. Interdisciplinary Discussion, to be announced.
+- Optional 04.02. Interdisciplinary Discussion, to be announced.
