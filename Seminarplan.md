@@ -273,7 +273,7 @@ More themes:
   - Oliver Gassmann, Karolin Frankenberger, Michaela Csik (2013). The
     St. Gallen Business Model Navigator
 - Osterwalder on Business Models
-  - Osterwalder, A., Pine, I. (2013) Building of business models
+  - A. Osterwalder (2011) Business model generation
 - How to hold strategic sessions via TRIZ tools (A. Kozhemyako)
   <https://bmtriz.ru/how-to-hold-strategic-sessions-via-triz-tools/>
 - Inventive Supply Chain Engineering (Alex Sidorec at BTO Fall 2021)  

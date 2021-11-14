@@ -17,3 +17,6 @@ approach addresses such a distributed decision-making and responsibility
 environment. The special features of the concepts compared to classical
 business process approaches are to be worked out.
 
+## Material
+
+* [Handout](Handout.pdf)
