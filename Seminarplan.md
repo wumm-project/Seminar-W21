@@ -40,6 +40,10 @@ written in English.
   business landscape. Industrial Marketing Management 42, 9–17.
   <http://dx.doi.org/10.1016/j.indmarman.2012.11.003>
 
+* Oliver Gassmann, Karolin Frankenberger, Michaela Csik (2020).  The
+  St. Gallen Business Model Navigator. Working Paper.
+  <https://businessmodelnavigator.com>
+
 * Charles Goodwin (2018). Co-operative Action.  Cambridge University Press.
   ISBN 978-1-108-71477-8.
   
@@ -133,6 +137,10 @@ written in English.
   W. Keller, F. Matthers, A. Ernst (2009). Patterns in Business and
   Information Systems Engineering. Business & Information Systems Engineering
   1, 486.  <https://doi.org/10.1007/s12599-009-0073-0>.
+
+* Stephen Wunker, Jessica Wattman, David Farber (2016). Jobs to Be Done: A
+  Roadmap for Customer-Centered Innovation.  Amacom Verlag. ISBN
+  978-0-8144-3803-9.
 
 * M. Yang, S. Evans, D. Vladimirova, P. Rana (2017). Value uncaptured
   perspective for sustainable business model innovation. Journal of Cleaner
@@ -311,7 +319,8 @@ More themes:
 - [11.01.](2022-01-11/README.md) Sustainable Business Model Patterns and
   Anti-Patterns (Lucie Davis)
 
-- [18.01.](2022-01-18/README.md) tba
+- [18.01.](2022-01-18/README.md) The St. Gallen Business Model Navigator (Ralf
+  Laue)
 
 - [25.01.](2022-01-25/README.md) tba
 
