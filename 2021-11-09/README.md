@@ -28,6 +28,7 @@ __Literature:__ (Souchkov 2010), (Souchkov 2014), (Souchkov 2017), (Souchkov
 ## Material
 
 * [Handout](Handout.pdf)
+* [Slides](Slides.pdf)
 
 ## Remarks
 
@@ -60,13 +61,13 @@ In the presentation itself, Business TRIZ was mainly presented as a large
 toolbox of instruments for various not specified more precisely purposes. The
 contradiction in TRIZ itself between the variety of tools and the claim of a
 systemically driven general framework as a uniform process model was addressed
-in rudiments on one of the last slides, in which three abstraction levels of
-entrepreneurial transformation demand were assigned to the three levels of a
-Business TRIZ certification. The connection is deeper, however, and only
-becomes clear when the multitude of tools are placed in a uniform development
-cycle of analysis, synthesis and evaluation, which embeds corporate
-development in a field of tension between justified expectations and
-experienced results, as is discussed in (Ackoff 1997), for example.
+in rudiments on slide 24, in which three abstraction levels of entrepreneurial
+transformation demand were assigned to the three levels of a Business TRIZ
+certification. The connection is deeper, however, and only becomes clear when
+the multitude of tools are placed in a uniform development cycle of analysis,
+synthesis and evaluation, which embeds corporate development in a field of
+tension between justified expectations and experienced results, as is
+discussed in (Ackoff 1997), for example.
 
 ## From the Chat
 
