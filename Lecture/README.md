@@ -66,13 +66,16 @@ __Additional Reading__:
 * Ludwig von Bertalanffy (1950). An outline of General System Theory, The
   British Journal for the Philosophy of Science, Volume I.2, 134–165.
   * <https://doi.org/10.1093/bjps/I.2.134>
-* Hans-Gert Gräbe (2012). What is progress? (in German). LIFIS Online,
-  12.11.2012.
-  * <https://www.leibniz-institut.de/archiv/graebe_12_11_12.pdf>
 * Erich Jantsch (1992). The self-organisation of the universe. (in German).
   Hanser, Munich.  
 * Ilya Prigogine, Isabelle Stengers (1984). Order out of Chaos: Man's new
   dialogue with nature. ISBN 0-00-654115-1.
+* Vladimir I. Vernadsky (1938). Scientific Thought as Planetary Phenomenon (in
+  Russian). <https://wumm-project.github.io/Texts/Vernadsky1938-ru.pdf>
+  - Translation by Pavel M. Penev,
+    <https://wumm-project.github.io/Texts/Vernadsky1938-en.pdf>
+  - Ian Angus (2018). Vladimir Vernadsky and the Disruption of the Biosphere.
+    <https://wumm-project.github.io/Texts/Angus-2018.pdf>
 
 __Learning Objectives:__
 
@@ -82,6 +85,7 @@ __Learning Objectives:__
 * Modelling systems
 * Development of a system. Ideal line and real line of development.
 * Immersive and submersive concept of a system.
+* The Earth system and its global metabolism
 
 __Slides:__
 * [System Notion and Development](SystemNotion.pdf)
