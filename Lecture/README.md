@@ -142,16 +142,7 @@ __Learning Objectives__:
 __Slides:__
 * [Digital Action Spaces](DigitalActionSpace.pdf)
 
-## November 18: Digital Action Spaces. Internet Basics. RDF Basics.
-
-__Literature__:
-* Wikipedia
-* Hans-Gert Gräbe, Thomas Riechert, Michael Martin (2011). OD.FMI –
-  Engineering operativ-administrativer Daten für die universitäre Lehre.
-  Manuskript, September 2011.
-  * <http://www.informatik.uni-leipzig.de/~graebe/Texte/delfi-11.pdf>
-* Hans-Gert Gräbe (2007-2020). Das OD.FMI Projekt. 
-  * <http://www.informatik.uni-leipzig.de/~graebe/Forschung/EEE/ODQuelle.html>
+## November 18: Digital Action Spaces. Internet Basics. 
 
 __Learning Objectives__:
 * Concepts _digital universe_ and _digital identity_.
@@ -161,22 +152,28 @@ __Learning Objectives__:
 * Internet Basics
 * The OSI 7-layer model
 * Management of IPs and computer names
-* RDF basics: URI, namespace, subject, predicate, object.
-* RDF concepts. RDF graphs, pattern search, SPARQL query language.
-* RDF Tools. RDF Stores, SPARQL Endpoints
 
 __Slides:__
 * [Digital Action Spaces](DigitalActionSpace.pdf)
+* [Internet Basics](InternetBasics.pdf)
 
-## November 25: Modelling Conceptual Worlds.
+## November 25: RDF Basaics. Modelling Conceptual Worlds.
 
 __Literature__:
+* Hans-Gert Gräbe, Thomas Riechert, Michael Martin (2011). OD.FMI –
+  Engineering operativ-administrativer Daten für die universitäre Lehre.
+  Manuskript, September 2011.
+  * <http://www.informatik.uni-leipzig.de/~graebe/Texte/delfi-11.pdf>
+* Hans-Gert Gräbe (2007-2020). Das OD.FMI Projekt. 
+  * <http://www.informatik.uni-leipzig.de/~graebe/Forschung/EEE/ODQuelle.html>
 * Marc Zobrist (2018). Ontologien und Datenmodelle. 
   * <https://histhub.ch/ontologien-und-datenmodelle/>
 * Open Data Support (2013). Trainingsmodul 1.3 Einführung in RDF & SPARQL.
   * [RDF-Einfuehrung.pdf](http://www.informatik.uni-leipzig.de/~graebe/Material/RDF-Einfuehrung.pdf)
 
 __Learning Objectives__:
+* RDF basics: URI, namespace, subject, predicate, object.
+* RDF concepts. RDF graphs, pattern search, SPARQL query language.
 * RDF Tools. RDF Stores, SPARQL Endpoints
 * Conceptual worlds and ontologies
 * Modelling of conceptual worlds as part of the modelling of technical systems. 
