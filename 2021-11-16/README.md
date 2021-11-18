@@ -24,6 +24,57 @@ business process approaches are to be worked out.
 
 ## Remarks
 
+The presentation and discussion focused on the technical dimension of
+agent-based systems, which is not surprising in the light of the existing
+literature on that topic.
+
+The focus was on agent-based systems in computer science, whereby the question
+arose as to which characteristics distinguish such systems in the spectrum of
+(distributed) component-based software architectures. If one analyses such
+software architectures in more detail, specifics are to be mentioned above all
+in the design of the communication concepts as well as the specific form of
+the persistence layer and thus in the management of decentralised states. With
+regard to the system concept developed in the seminar, however, this is a
+central challenge - systems are _indecomposable_ in their process dimension,
+which means that in most cases optimising the behaviour of the individual
+agents does not lead to an optimal overall system. Optimisation of the overall
+system requires corresponding system-global description forms and thus also a
+suitable global state management in the distributed system. There are enough
+conceptual approaches for this in computer science, how far they may be
+applied in each individual cases. This elementary insight of systemic
+modelling did not play a role in the preesentation and discussion.
+
+Agent-based systems thus model a basic assumption of the free market concept -
+the contract-based action of economic subjects as homines oeconomici
+optimising private benefits leads to an optimal overall economic system. The
+"blind hand of the market" and thus the "naturally" occurring economic
+processes (TRIZ Principle 25: By itself) lead "behind the market participants"
+in most cases to better results and are superior to regulatory interventions
+in these processes. This belief is in blatant contradiction not only to the
+importance of institutionalised procedures as pillar 2 in the 3-pillar concept
+of technology developed in the lecture, but also to all _practical_ efforts to
+standardise business processes, which were addressed in the two previous
+seminar presentations (APQC PCF and Business TRIZ).
+
+Agent-based approaches nevertheless represent an important field of gaining
+experience for precisely such institutionalisation processes, if the
+corresponding systems are regarded as developing systems that are still in an
+early phase of interaction networking. Digital agent-based systems are a
+particularly interesting field of experimentation in view of their easy
+modifiability, where gaming approaches have recently enjoyed particular
+popularity.
+
+However, these experiences only become interesting when they are (or can be)
+transferred to real-world multistakeholder systems. At the centre of
+corresponding institutionalisation processes is the genesis and consolidation
+of _system-global conceptual worlds_ to articulate and codify _global system
+states_, which transcend local beliefs as new, emergent _systemic qualities_.
+This process, which can still be controlled in the classical way within a
+company in the direction of a _corporate identity_ under tight strategic
+management, cannot be implemented in such a way in multi-stakeholder contexts.
+The identification of suitable concepts how such forms of cooperative action
+can be conceptually accompanied is the main concern of our seminar.
+
 ## From the Chat
 
 - The concept of agent is understood in a very technical way here. Is the
