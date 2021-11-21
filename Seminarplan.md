@@ -302,7 +302,7 @@ More themes:
 
 - [16.11.](2021-11-16/README.md) Agent Based Business Systems (Stefan Härtel)
 
-- [23.11.](2021-11-23/README.md) SCOR - the Supply Chain Operations Refernce
+- [23.11.](2021-11-23/README.md) SCOR - the Supply Chain Operations Reference
   Model (Gräbe)
 
 - [30.11.](2021-11-30/README.md) Business Process Landscaping (Toni Pfeiffer)
