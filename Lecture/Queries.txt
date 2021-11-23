@@ -1,0 +1,85 @@
+Unter http://od.fmi.uni-leipzig.de läuft ein (nicht mehr öffentlicher) RDF
+Triple Store, über den alle Informationen zu den Lehrveranstaltungen der
+Fakultät Mathematik und Informatik im RDF Format verwaltet werden.
+
+Mehr zur Struktur dieser RDF Datenbasis siehe
+http://www.informatik.uni-leipzig.de/~graebe/Forschung/EEE/ODQuelle.html
+
+Dieser Triple Store bietet auch einen SPARQL Endpunkt an, über den jedermann
+Anfragen als SPARQL Queries an diese Datenbasis stellen kann
+
+Dieser Endpunkt ist unter 
+http://od.fmi.uni-leipzig.de:8892/sparql
+zu erreichen.
+
+Es folgen einige Beispiele für derartige Anfragen an die Lehrplanung.
+
+------------------------------------------------------------------
+
+-- einfache Anfrage nach allen LV mit URI-Präfix BIS
+
+PREFIX od: <http://od.fmi.uni-leipzig.de/model/>
+SELECT distinct ?l ?name ?d ?b ?r
+from <http://od.fmi.uni-leipzig.de/w21/>
+WHERE {
+  ?l a od:LV .
+  ?l rdfs:label ?name .
+  ?l od:beginsAt ?b .
+  ?l od:dayOfWeek ?d . 
+  ?l od:locatedAt ?r . 
+filter regex(?l,'BIS') .
+}
+
+-- Anfrage nach allen LV, die der Unit BIS.SemanticWeb zugeordnet sind
+(inzwischen anders modelliert als in der Übersicht angegeben, Kurs wurde
+weggelassen)
+
+PREFIX od: <http://od.fmi.uni-leipzig.de/model/>
+SELECT distinct ?l ?name ?d ?b ?r
+from <http://od.fmi.uni-leipzig.de/studium/>
+from <http://od.fmi.uni-leipzig.de/w21/>
+WHERE {
+  <http://od.fmi.uni-leipzig.de/studium/BIS.SemanticWeb> od:containsLV ?l . 
+  ?l rdfs:label ?name .
+optional{ ?l od:beginsAt ?b .}
+optional{ ?l od:dayOfWeek ?d . }
+optional{ ?l od:locatedAt ?r . }
+}
+
+-- Anfrage nach allen LV, die der Unit BIS.SemanticWeb zugeordnet sind, mit
+   Auflösung der Namen der Räume und Lehrkräfte
+
+PREFIX od: <http://od.fmi.uni-leipzig.de/model/>
+SELECT distinct ?l ?name ?d ?b ?rn ?pn
+from <http://od.fmi.uni-leipzig.de/studium/>
+from <http://od.fmi.uni-leipzig.de/w21/>
+from <http://od.fmi.uni-leipzig.de/rooms/>
+from <http://od.fmi.uni-leipzig.de/Personal/>
+WHERE {
+  <http://od.fmi.uni-leipzig.de/studium/BIS.SemanticWeb> od:containsLV ?l . 
+  ?l rdfs:label ?name .
+  ?l od:beginsAt ?b .
+  ?l od:dayOfWeek ?d . 
+  ?l od:locatedAt ?r . 
+  ?r rdfs:label ?rn . 
+  ?l od:servedBy ?p . 
+  ?p foaf:name ?pn . 
+}
+
+--------------------------------------------------
+
+-- RDF Teilgraphen mit relevanten Informationen extrahieren
+-- Verwende Ansicht Turtle (beautiful)
+
+PREFIX od: <http://od.fmi.uni-leipzig.de/model/>
+Construct { ?l ?p ?o . ?o ?p1 ?o1 . }
+from <http://od.fmi.uni-leipzig.de/w21/>
+from <http://od.fmi.uni-leipzig.de/rooms/>
+from <http://od.fmi.uni-leipzig.de/Personal/>
+WHERE {
+  ?l a od:LV .
+  ?l ?p ?o .
+optional { ?o ?p1 ?o1 . }
+filter regex(?l,'BIS') .
+}
+
