@@ -16,3 +16,7 @@ can only be solved to a limited extent with Service Level Agreements.
 Experiences and conceptual consolidations in this area are to be presented
 based on the background of the business process concepts discussed earlier in
 the seminar.
+
+## Material
+
+* [Handout](Handout.pdf)
