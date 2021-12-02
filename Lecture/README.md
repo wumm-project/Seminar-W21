@@ -157,7 +157,7 @@ __Slides:__
 * [Digital Action Spaces](DigitalActionSpace.pdf)
 * [Internet Basics](InternetBasics.pdf)
 
-## November 25: RDF Basaics. Modelling Conceptual Worlds.
+## November 25: RDF Basics. 
 
 __Literature__:
 * Hans-Gert Gräbe, Thomas Riechert, Michael Martin (2011). OD.FMI –
@@ -166,8 +166,6 @@ __Literature__:
   * <http://www.informatik.uni-leipzig.de/~graebe/Texte/delfi-11.pdf>
 * Hans-Gert Gräbe (2007-2020). Das OD.FMI Projekt. 
   * <http://www.informatik.uni-leipzig.de/~graebe/Forschung/EEE/ODQuelle.html>
-* Marc Zobrist (2018). Ontologien und Datenmodelle. 
-  * <https://histhub.ch/ontologien-und-datenmodelle/>
 * Open Data Support (2013). Trainingsmodul 1.3 Einführung in RDF & SPARQL.
   * [RDF-Einfuehrung.pdf](http://www.informatik.uni-leipzig.de/~graebe/Material/RDF-Einfuehrung.pdf)
 
@@ -175,23 +173,42 @@ __Learning Objectives__:
 * RDF basics: URI, namespace, subject, predicate, object.
 * RDF concepts. RDF graphs, pattern search, SPARQL query language.
 * RDF Tools. RDF Stores, SPARQL Endpoints
-* Conceptual worlds and ontologies
-* Modelling of conceptual worlds as part of the modelling of technical systems. 
-* Modelling of shared conceptual worlds as a cooperative social process
-* The Linked Open Data Cloud
-* Examples of ontologies
 
-## December 02: Conceptual Worlds and the Giant Global Graph. Data and Information
+__Slides:__
+* [Internet Basics](InternetBasics.pdf)
+* [Resource Description Framework](RDF.pdf)
+
+## December 02: Modelling Conceptual Worlds. The Giant Global Graph. 
 
 __Learning Objectives__:
+* Conceptual worlds and ontologies
+* Modelling of conceptual worlds as part of the modelling of technical systems. 
+* Modelling of shared conceptual worlds as cooperative social process
+* The Linked Open Data Cloud
+* Examples of ontologies
 * Ontologies and applications
-* Other approaches: Google's Knowledge Graph, Wolfram Alpha
+* Other approaches: Google's Knowledge Graph, Wolfram Alpha, Text Encoding
+  Initiative
+
+__Literature__:
+* Open Data Support (2013). Trainingsmodul 1.2 Linked Data.
+  * [RDF-Einfuehrung.pdf](http://www.informatik.uni-leipzig.de/~graebe/Material/LinkedData-Einfuehrung.pdf)
+* Marc Zobrist (2018). Ontologien und Datenmodelle. 
+  * <https://histhub.ch/ontologien-und-datenmodelle/>
+
+__Slides:__
+* [Resource Description Framework](RDF.pdf)
+* [Linked Open Data](LOD.pdf)
+
+## December 09: Data and Information.
+
+__Learning Objectives__:
 * Importance of shared conceptual worlds for well-ordered cohabitation
-* Fiction as a form of abbreviated speaking about a social normality
+* Abbreviated speech patterns and social normality
 * Data and Information
 * Syntax, Semantics, Pragmatics
 
-## December 09: Storytelling, Conceptualisation, Information and Language
+## December 16: Storytelling, Conceptualisation, Information and Language
 
 __Literature__:
 * Helmut Klemm (2003). Ein großes Elend. Informatik-Spektrum 26, S. 267–273. 
@@ -213,7 +230,7 @@ __Learning Objectives__:
 * Storytelling and action
 * Information and language
 
-## December 16: Knowledge and Action
+## January 06: Knowledge and Action
 
 __Literature__:
 * Berger, Luckmann (1969/1994): The Social Construction of Reality.  In
@@ -227,7 +244,7 @@ __Learning Objectives__:
 * Cooperative practices and their development
 * Conditions of possibility of action in civil society 
 
-## January 06: On a theory of Cooperative action
+## January 13: On a theory of Cooperative action
 
 __Learning Objectives__:
 
@@ -236,18 +253,15 @@ __Learning Objectives__:
   transformation
 * Conditionalities and necessity of Open Culture
 
-## January 13: Economic network structures 
+## January 20: Economic network structures 
 
 __Learning Objectives__:
 * Open Culture and infrastructure development
 * Services and business models under the conditions of Open Culture
 
-## January 20: The History of the .NET Project
-
-## January 27: Formation of an Open Culture
+## January 27: The History of the .NET Project
 
 ## February 03: Formation of an Open Culture
 
 ## February 05: Optional: Interdisciplinary Block Seminar
 
-to be announced
