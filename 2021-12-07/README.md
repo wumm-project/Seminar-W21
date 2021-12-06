@@ -23,5 +23,7 @@ more detail.
 
 __Literature:__ (Khristenko et al. 2014, Part 1), (Shchedrovitsky 1981)
 
+## Material
 
-tba
+* [Handout](Handout.pdf)
+
