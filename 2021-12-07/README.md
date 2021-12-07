@@ -21,12 +21,16 @@ experiences were developed and examined for their viability in the
 Methodological School of Management. These connections are to be presented in
 more detail.
 
-__Literature:__ (Khristenko et al. 2014, Part 1), (Shchedrovitsky 1981)
+__Literature:__
+- (Khristenko et al. 2014, Part 1), (Shchedrovitsky 1981)
+- <https://en.wikipedia.org/wiki/Activity_theory>
+- <https://de.wikipedia.org/wiki/Tätigkeitstheorie>
 
 ## Material
 
 * [Handout](Handout.pdf)
 * [Slides](Handout.pdf)
+* [Biography of G.P. Shchedrovitsky](Shchedrovitsky-Biography.pdf)
 
 ## Remarks
 
