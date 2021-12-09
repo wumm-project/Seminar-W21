@@ -204,9 +204,13 @@ __Slides:__
 
 __Learning Objectives__:
 * Importance of shared conceptual worlds for well-ordered cohabitation
-* Abbreviated speech patterns and social normality
+* Shortcuts of speaking and social normality
 * Data and Information
 * Syntax, Semantics, Pragmatics
+
+__Slides:__
+* [Linked Open Data](LOD.pdf)
+* [Data and Information](DatenInformationen.pdf)
 
 ## December 16: Storytelling, Conceptualisation, Information and Language
 
@@ -229,6 +233,10 @@ __Additional Reading__:
 __Learning Objectives__:
 * Storytelling and action
 * Information and language
+
+__Slides:__
+* [Data and Information](DatenInformationen.pdf)
+* [The Basics of Storytelling](Storytelling.pdf)
 
 ## January 06: Knowledge and Action
 
