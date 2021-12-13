@@ -21,3 +21,12 @@ Improvement Patterns. Corresponding theoretical approaches are to be presented
 and compared.
 
 __Literature:__ (Rosemann 2020)
+
+
+## Material
+
+* [Handout](Handout.pdf)
+
+## Remarks
+
+## From the Chat
