@@ -17,6 +17,8 @@ Experiences and conceptual consolidations in this area are to be presented
 based on the background of the business process concepts discussed earlier in
 the seminar.
 
+__Literature:__ (Ford/Mouzas 2013)
+
 ## Material
 
 * [Handout](Handout.pdf)

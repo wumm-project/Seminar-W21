@@ -75,6 +75,9 @@ written in English.
   Co-Operative Action (in German). Forum Qualitative Sozialforschung, 20(1),
   1-7.  <https://doi.org/10.17169/fqs-20.1.3197>.
 
+* Carin Lindskog (2018). Exploitation and Exploration in Business Process
+  Management – An exploratory paper. CEUR Workshop Proceedings, pp. 405-414.
+
 * Florian Lüdeke-Freund, Sarah Carroux, Alexandre Joyce, Lorenzo Massa,
   Henning Breuer (2018). The sustainable business model pattern taxonomy — 45
   patterns to support sustainability-oriented business model innovation.
@@ -211,6 +214,8 @@ written in English.
    this area are to be presented based on the background of the business
    process concepts discussed earlier in the seminar.
    
+   __Literature:__ Recherche required
+
 6. Schematisation in the Work of G.P. Shchedrovitsky
 
    __Goal:__ All concepts discussed so far address Business Process Modelling
@@ -270,6 +275,20 @@ written in English.
 
    __Literature:__ (Lüdeke-Freund et al. 2018)
 
+10. Service Oriented Business Process Management
+
+   Classical Business Process approaches are focused on process management in
+   production structures where classical products are produced that can be
+   sold as tangible goods on the market. In the last 50 years, however,
+   production structures for services have gained enormous importance. The
+   associated structural change in society, which has taken place and is
+   taking place in different ways in all western industrialised countries, is
+   also referred to as the __transition to a service society__. The lecture
+   will examine and present which differences and new aspects arise in the
+   field of BP modelling and management of such service-oriented structures.
+
+   __Literature:__ (Ford, Mouzas 2013)
+
 More themes: 
 - Process and Enterprise Maturity Model - Michael Hammer
 - Business Process Maturity Model (BPMM) by Bill Curtis and John Alden
@@ -311,7 +330,7 @@ More themes:
   G.P. Shchedrovitsky (Marvin Müller)
 
 - [14.12.](2021-12-14/README.md) Process Improvement Patterns. Exploitative
-  and Explorative Business Process Improvements (Alexander Pavlovski)
+  and Explorative Business Process Improvements (Gräbe)
 
 - [04.01.](2022-01-04/README.md) Business Innovation in ISO 56000:2020
   (Maximilian Ressel)
@@ -322,7 +341,8 @@ More themes:
 - [18.01.](2022-01-18/README.md) The St. Gallen Business Model Navigator (Ralf
   Laue)
 
-- [25.01.](2022-01-25/README.md) tba
+- [25.01.](2022-01-25/README.md) Service Oriented Business Process Management
+  (Alexander Pavlovski)
 
 - 01.02. Evaluation and lessons learned
 

@@ -5,7 +5,7 @@
 * __Theme:__ Process Improvement Patterns. Exploitative and Explorative
   Business Process Improvements
 
-* __Presenter:__ Alexander Pavlovski
+* __Presenter:__ Hans-Gert Gräbe
 
 ## Abstract
 
@@ -22,11 +22,12 @@ and compared.
 
 __Literature:__ (Rosemann 2020)
 
-
 ## Material
 
-* [Handout](Handout.pdf)
+* [Slides](Slides.pdf)
+* [Business Process Model Patterns Classification](http://bpmpatterns.org/)
 
 ## Remarks
 
-## From the Chat
+
+

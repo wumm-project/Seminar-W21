@@ -2,8 +2,8 @@
 
 ## Short Announcement
 
-* __Theme:__ tba
+* __Theme:__ The St. Gallen Business Model Navigator
 
-* __Presenter:__ tba
+* __Presenter:__ Ralf Laue
 
 ## Abstract
