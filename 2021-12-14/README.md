@@ -20,7 +20,7 @@ only Business TRIZ assumes that such transformations follow certain Process
 Improvement Patterns. Corresponding theoretical approaches are to be presented
 and compared.
 
-__Literature:__ (Rosemann 2020)
+__Literature:__ (Rosemann 2020), (Lindskog 2018)
 
 ## Material
 
