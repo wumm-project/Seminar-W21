@@ -252,6 +252,9 @@ __Learning Objectives__:
 * Cooperative practices and their development
 * Conditions of possibility of action in civil society 
 
+__Slides:__
+* [Knowledge and Action](Knowledge.pdf)
+
 ## January 13: On a theory of Cooperative action
 
 __Learning Objectives__:
