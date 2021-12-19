@@ -50,11 +50,11 @@ our postulate of the necessity of contextualisation of a system.  However,
 when studying the APQC-PCF we observed that contextualisations on different
 levels of abstraction play a role and that conceptual systems on a
 cross-industry level as well as domain-specific conceptual systems for
-individual industries play are of importance. The latter have a more
-restricted context, but are conceptually richer than the APQC-PCF at
-cross-industry level. Here, the submersive character of the relation between
-the various "reductions to essentials" of systems at different levels of
-abstraction becomes visible once again.
+individual industries are of importance. The latter have a more restricted
+context, but are conceptually richer than the APQC-PCF at cross-industry
+level. Here, the submersive character of the relation between the various
+"reductions to essentials" of systems at different levels of abstraction
+becomes visible once again.
 
 This is particularly evident in the need to provide for a _controlled variety_
 of concretisations for the practical implementation of general
@@ -83,7 +83,7 @@ is directed at the identification of problems, _redesign_ at the planning of
 changes initially in the model, _execute_ and _monitor_ at the practical
 implementation of these changes and the monitoring of this transformation
 process.  For this cyclic process, also referred to as the __BPM lifecycle__,
-exists a greater variety of conceprualisations in the literature, see the
+exists a greater variety of conceptualisations in the literature, see the
 slides of the presentation for some of them.
 
 __BP Improvement__ is a slight variation of the way to view on BPM. While BPM
