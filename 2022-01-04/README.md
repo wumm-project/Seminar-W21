@@ -4,7 +4,7 @@
 
 * __Theme:__ Business Innovation in ISO 56000:2020
 
-* __Presenter:__ Maximilian Ressel
+* __Presenter:__ Hans-Gert Gräbe
 
 ## Abstract
 

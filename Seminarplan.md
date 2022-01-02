@@ -333,10 +333,10 @@ More themes:
   and Explorative Business Process Improvements (Gräbe)
 
 - [04.01.](2022-01-04/README.md) Business Innovation in ISO 56000:2020
-  (Maximilian Ressel)
+  (Gräbe)
 
 - [11.01.](2022-01-11/README.md) Sustainable Business Model Patterns and
-  Anti-Patterns (Lucie Davis)
+  Anti-Patterns (NN)
 
 - [18.01.](2022-01-18/README.md) The St. Gallen Business Model Navigator (Ralf
   Laue)

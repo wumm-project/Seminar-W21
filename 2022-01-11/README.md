@@ -4,7 +4,7 @@
 
 * __Theme:__ Sustainable Business Model Patterns and Anti-Patterns
 
-* __Presenter:__ Lucie Davis
+* __Presenter:__ NN
 
 ## Abstract
 
