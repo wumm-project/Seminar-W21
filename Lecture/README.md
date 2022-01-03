@@ -255,7 +255,9 @@ __Learning Objectives__:
 __Slides:__
 * [Knowledge and Action](Knowledge.pdf)
 
-## January 13: On a theory of Cooperative action
+## January 13: No lecture
+
+## January 20: On a theory of Cooperative action
 
 __Learning Objectives__:
 
@@ -264,15 +266,16 @@ __Learning Objectives__:
   transformation
 * Conditionalities and necessity of Open Culture
 
-## January 20: Economic network structures 
+## January 27: Economic network structures 
 
 __Learning Objectives__:
 * Open Culture and infrastructure development
 * Services and business models under the conditions of Open Culture
 
-## January 27: The History of the .NET Project
-
-## February 03: Formation of an Open Culture
+## February 03: The History of the .NET Project. Formation of an Open Culture
 
 ## February 05: Optional: Interdisciplinary Block Seminar
+
+Continuous Improvement, Engineering Systems and Systems Engineering
+<http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/LeipzigerGespraeche/2022-02-04>
 

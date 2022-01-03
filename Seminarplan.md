@@ -332,9 +332,6 @@ More themes:
 - [14.12.](2021-12-14/README.md) Process Improvement Patterns. Exploitative
   and Explorative Business Process Improvements (Gräbe)
 
-- [04.01.](2022-01-04/README.md) Business Innovation in ISO 56000:2020
-  (Gräbe)
-
 - [11.01.](2022-01-11/README.md) Sustainable Business Model Patterns and
   Anti-Patterns (NN)
 
@@ -344,6 +341,13 @@ More themes:
 - [25.01.](2022-01-25/README.md) Service Oriented Business Process Management
   (Alexander Pavlovski)
 
+- [01.02.](2022-02-01/README.md) Business Innovation in ISO 56000:2020
+  (Gräbe)
+  
 - 01.02. Evaluation and lessons learned
 
-- Optional 04.02. Interdisciplinary Discussion, to be announced.
+- Optional 04.02. Interdisciplinary  Block Seminar
+
+Continuous Improvement, Engineering Systems and Systems Engineering
+<http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/LeipzigerGespraeche/2022-02-04>
+
