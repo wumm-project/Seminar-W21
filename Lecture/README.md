@@ -232,7 +232,6 @@ __Additional Reading__:
 
 __Learning Objectives__:
 * Storytelling and action
-* Information and language
 
 __Slides:__
 * [Data and Information](DatenInformationen.pdf)
@@ -246,13 +245,16 @@ __Literature__:
   der Wissenssoziologie. Fischer Taschenbuch Verlag. ISBN 978-3-596-26623-4.
 
 __Learning Objectives__:
-* Human practices as a contradictory relationship between reasonable
-  expectations and experienced results
-* Conditions of socialisation of knowledge and cooperative action
+* Information and language
+* Storytelling and Digital Change
+* What is Knowledge
+* Knowledge practices
+* Knowledge and cooperative action
 * Cooperative practices and their development
 * Conditions of possibility of action in civil society 
 
 __Slides:__
+* [Information and Language](Storytelling.pdf)
 * [Knowledge and Action](Knowledge.pdf)
 
 ## January 13: No lecture
