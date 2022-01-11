@@ -333,7 +333,7 @@ More themes:
   and Explorative Business Process Improvements (Gräbe)
 
 - [11.01.](2022-01-11/README.md) Sustainable Business Model Patterns and
-  Anti-Patterns (NN)
+  Anti-Patterns (Kristin Kutzner)
 
 - [18.01.](2022-01-18/README.md) The St. Gallen Business Model Navigator (Ralf
   Laue)

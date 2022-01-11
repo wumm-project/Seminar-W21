@@ -4,7 +4,7 @@
 
 * __Theme:__ Sustainable Business Model Patterns and Anti-Patterns
 
-* __Presenter:__ NN
+* __Presenter:__ Kristin Kutzner
 
 ## Abstract
 
@@ -19,11 +19,6 @@ potential for improvement (e.g. Fellmann et al. 2018; Winter et al. 2009). In
 addition, anti-patterns, which represent solutions that are known to have
 shortcomings, can be used to design business models (e.g. Koschmider et
 al. 2019).
-
-In the context of this seminar paper, an overview of existing sustainable
-business model patterns and anti-patterns has to be developed. For this
-purpose, a systematic literature review has to be conducted and the results
-presented in a structured manner.
 
 __Literature:__
 
