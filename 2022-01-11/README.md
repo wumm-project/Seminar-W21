@@ -38,3 +38,49 @@ __Literature:__
 - R. Winter, J. vom Brocke, P. Fettke, P. Loos et al. (2009). Patterns in
   Business and Information Systems Engineering. Business & Information Systems
   Engineering 1, 486. <https://doi.org/10.1007/s12599-009-0073-0>.
+
+  	      
+## Material
+
+* [Slides](Slides.pdf)
+
+## Remarks
+
+tba
+
+## From the Chat
+
+Business model: What role play the _conditions of production_ (besides the
+labour processes in which the value proposition is practically realised)?
+
+Thesis: Up to now, (capitalist) economic activity has been based on the
+assumption that nature is available without restriction and free of charge
+("exploited").
+
+Note that this assumption becomes problematic in economic theory when it comes
+to extractive industries (including agriculture).
+
+How do the SDGs (which are the result of a longer global _political_ process)
+fit into a narrower economic theory?
+
+How to deal with the "Paris gap", which is currently assigned a central
+importance in the global climate debate?
+
+Slide 13: Very interesting link to ProHEAL Level 1 (techical-economic
+contradiction).  In ProHEAL this is processed in the ABER matrix, whose number
+of columns has perhaps to be expanded for this purpose.
+
+Delphi Card Sorting - very interesting approach to produce _cooperative_
+knowledge.  Fits extremely well with our approach of systemic development and
+our understanding of the formation of concept in their use.
+
+How do the pattern groups relate to another big issue, the transition to a
+circular economy? In what time horizons should BM patterns take effect?
+
+G11 Platform - who runs the platform? What are the value flow approaches
+there, since a platform must first be built up through capital investment? How
+is the relationship between operative and investive capital operated in these
+theoretical approaches to Business Model patterns?
+
+How do the Business Models of RelayRide and Uber relate to each other?
+
