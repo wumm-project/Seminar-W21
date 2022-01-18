@@ -22,6 +22,9 @@ al. 2019).
 
 __Literature:__
 
+- T. Butler (2011). Compliance with Institutional Imperatives on Environmental
+  Sustainability: Building Theory on the Role of Green IS. The Journal of
+  Strategic Information Systems 20(1), pp. 6–26.
 - J. Elkington (1997). Cannibals with Forks: The Triple Bottom Line of 21st
   Century Business. Capstone, Oxford.
 - M. Fellmann, A. Koschmider, R. Laue, A. Schoknecht, A. Vetter (2018).
@@ -36,9 +39,14 @@ __Literature:__
   sustainable business model pattern taxonomy — 45 patterns to support
   sustainability-oriented business model innovation. Sustainable Production
   and Consumption 15, 145-162. <https://doi.org/10.1016/j.spc.2018.06.004>
+- J. Magretta (2002). Why Business Models Matter. Harvard Business Review.
+  <https://hbr.org/2002/05/why-business-models-matter>
 - S. Schaltegger, E. G. Hansen, F. Lüdeke-Freund (2016). Business Models for
   Sustainability: Origins, Present Research, and Future Avenues. Organization
   & Environment 29 (1).  <https://doi.org/10.1177%2F1086026615599806>
+- S. Seidel et. al (2017). The Sustainability Imperative in Information
+  Systems Research. Communications of the Association for Information Systems
+  40 (1).
 - C.U. Smith, L.G. Williams (2000). Software Performance Antipatterns. In
   Proceedings oft he 2nd Internaional Workshop on Software and Performance.
   ACM, New York, USA, pp. 127-136.
@@ -46,14 +54,66 @@ __Literature:__
   Business and Information Systems Engineering. Business & Information Systems
   Engineering 1, 468. <https://doi.org/10.1007/s12599-009-0073-0>.
 
-  	      
 ## Material
 
 * [Slides](Slides.pdf)
 
 ## Remarks
 
-tba
+With the last topics in the seminar, the perspective shifts from _Business
+Processes_ to _Business Models_. While Business Process Landscaping focuses
+more on the level of the design of _operational_ management tasks, Business
+Models deal with questions of the _strategic orientation_ of the company in
+order to sustainably secure relevant capital flows and thus the decisive
+_throughput_ required for a viable business system.
+
+In the presentation such a perspective was linked with the questions 
+- Who is the customer?
+- And what does the customer value?
+- How do we make money in the business?
+- How we can deliver value to customers at an appropriate cost?
+
+In addition to the definition of strategic business areas, it is about
+identifying and addressing _solvent demand_ as well as the _cost-benefit
+structures_ in the company.
+
+However, business models are only one topic in the field of strategic
+corporate management. A second, equally important topic is the further
+development of the production-technical basis as the material conditions which
+restrict the number of possible business models that can be realised. The
+development and expansion of these material conditions requires long-term
+capital commitment. This includes the retention and qualification of personnel
+who can fill the intended roles, as well as stable supply chain conditions.
+
+This material _aspect of the possible_ is largely ignored in the perspective
+of Business Models, which concentrates on finding suitable value propositions,
+i.e. identification of (additonal) solvent demand structures that could be
+addressed in the context of the _given_ production conditions or can be tapped
+by _slightly modifying_ them. Similar to the view on technical systems as
+variable bundles of technical functions (see [Gräbe-1]), the company's
+production system is understood as a variable bundle of business processes
+whose degrees of variability can be used to adapt the Business Model.
+
+Like the patterns of technical TRIZ, BM patterns abstract from these specific
+variabilities and claim that a modest number of _abstract patterns_ can be
+identified which recur frequently in such tasks to design a transformation of
+a Business Model as a system of value propositions.
+
+Thus, we also here encounter the three levels of _systemic reality_,
+_domain-specific modelling_ and _cross-domain methodology_, as described in
+[Gräbe-2] for the TRIZ ontology project.
+
+In the presentation itself, the area was explored using the example of the
+topic of _sustainability_ as a new component of value proposition to be
+integrated into existing BM. With the anchoring of the topic in public
+awareness, it increasingly plays a role as an (additional) value proposition.
+
+References:
+- [Gräbe-1] H.-G. Gräbe (2021). Technical Systems and Their Purposes. In:
+  O. Mayer (ed.) TRIZ-Anwendertag 2020. Springer.
+  <http://dx.doi.org/10.1007/978-3-662-63073-0_1>.
+- [Gräbe-2] H.-G. Gräbe (2021). Towards a Linked Open Data TRIZ Ontology.
+  [LIFIS Online, 13.08.2021](http://dx.doi.org/10.14625/graebe_20210813).
 
 ## From the Chat
 

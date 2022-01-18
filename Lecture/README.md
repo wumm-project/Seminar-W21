@@ -268,13 +268,25 @@ __Learning Objectives__:
   transformation
 * Conditionalities and necessity of Open Culture
 
+__Slides:__
+* [Knowledge and Action](Knowledge.pdf)
+* [Cooperate Action](CooperateAction.pdf)
+
 ## January 27: Economic network structures 
 
 __Learning Objectives__:
 * Open Culture and infrastructure development
 * Services and business models under the conditions of Open Culture
 
+__Slides:__
+* [Cooperate Action](CooperateAction.pdf)
+* [History of the .NET project](DotNet.pdf)
+
 ## February 03: The History of the .NET Project. Formation of an Open Culture
+
+__Slides:__
+* [History of the .NET project](DotNet.pdf)
+* [Open Culture](OpenCulture.pdf)
 
 ## February 05: Optional: Interdisciplinary Block Seminar
 
