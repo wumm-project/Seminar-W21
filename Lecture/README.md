@@ -249,9 +249,6 @@ __Learning Objectives__:
 * Storytelling and Digital Change
 * What is Knowledge
 * Knowledge practices
-* Knowledge and cooperative action
-* Cooperative practices and their development
-* Conditions of possibility of action in civil society 
 
 __Slides:__
 * [Information and Language](Storytelling.pdf)
@@ -262,27 +259,36 @@ __Slides:__
 ## January 20: On a theory of Cooperative action
 
 __Learning Objectives__:
-
-* Basic forms of capitalist enterprises and their relationship to the concepts
-  of innovation, ingenuity and intellectual property in the digital
-  transformation
-* Conditionalities and necessity of Open Culture
+* Knowledge and cooperative action
+* Cooperative practices and their development
+* Cooperative practices and cooperate systems of meaning
+* On a theory of cooperative action based on a systemic approach
+* Conditions of possibility of action in civil society 
+* Cooperative action. An example - the [OEIS](http://oeis.org/)
 
 __Slides:__
 * [Knowledge and Action](Knowledge.pdf)
-* [Cooperate Action](CooperateAction.pdf)
+* [Cooperative Action](CooperativeAction.pdf)
 
 ## January 27: Economic network structures 
 
 __Learning Objectives__:
+* Basic forms of capitalist enterprises and their relationship to the concepts
+  of innovation, ingenuity and intellectual property in the digital
+  transformation
+* Conditionalities and necessity of Open Culture
 * Open Culture and infrastructure development
-* Services and business models under the conditions of Open Culture
 
 __Slides:__
-* [Cooperate Action](CooperateAction.pdf)
+* [Cooperative Action](CooperativeAction.pdf)
 * [History of the .NET project](DotNet.pdf)
 
 ## February 03: The History of the .NET Project. Formation of an Open Culture
+
+__Learning Objectives__:
+* The .NET Project as an example for the formation of an Open Culture
+* Services and business models under the conditions of Open Culture
+* On the historical process of unfolding an Open Culture
 
 __Slides:__
 * [History of the .NET project](DotNet.pdf)
