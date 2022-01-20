@@ -120,18 +120,19 @@ References:
 Business model: What role play the _conditions of production_ (besides the
 labour processes in which the value proposition is practically realised)?
 
-Thesis: Up to now, (capitalist) economic activity has been based on the
+__Thesis:__ Up to now, (capitalist) economic activity has been based on the
 assumption that nature is available without restriction and free of charge
 ("exploited").
 
-Note that this assumption becomes problematic in economic theory when it comes
-to extractive industries (including agriculture).
+- Note that this assumption becomes problematic in economic theory when it
+  comes to extractive industries (including agriculture).
 
 How do the SDGs (which are the result of a longer global _political_ process)
 fit into a narrower economic theory?
 
-How to deal with the "Paris gap", which is currently assigned a central
-importance in the global climate debate?
+How to deal with the
+["Paris gap"](https://www.greenbiz.com/article/paris-gap-how-private-action-can-fill-void-emissions),
+which is currently assigned a central importance in the global climate debate?
 
 Slide 13: Very interesting link to ProHEAL Level 1 (techical-economic
 contradiction).  In ProHEAL this is processed in the ABER matrix, whose number
