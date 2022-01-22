@@ -108,17 +108,57 @@ topic of _sustainability_ as a new component of value proposition to be
 integrated into existing BM. With the anchoring of the topic in public
 awareness, it increasingly plays a role as an (additional) value proposition.
 
+Sustainability is altogether a difficult topic, as processes on different
+temporal dimensions with partly contradictory challenges are intertwined here,
+see the slides [Gräbe-3] from my lecture. The increasing attention to
+ecological issues for the design of BM, which has gained massive increase in
+importance in recent years, at least in Western Europe, is embedded in a
+global political process that lasts already 50 years, since the publication of
+the "Limits to Growth" in 1972. In this process, challenges increasingly get
+public attention that result from the fact that our current mode of production
+is undermining the human existence in the long term. In the climate debate,
+these challenges are increasingly operationalised at the monetary level,
+whether as a CO_2 tax or in the
+["Paris gap"](https://www.greenbiz.com/article/paris-gap-how-private-action-can-fill-void-emissions).
+Somewhat more abstract statements such as "peak oil", which still dominated
+the discussions 10 years ago, have stepped into the background. The 17
+Sustainable Development Goals (SDG) adopted by the UN, as new reference point
+of the politicisation of the issue are of particular importance.
+
+The operationalisation in Business Models is faced with the fundamental
+contradiction that a _crucial change_ in the mode of production is required,
+which cannot be based on even innovative BM based on the _existing
+organisation of production_. However, the two sides of the contradiction
+operate on different time horizons and thus on different systemic levels. The
+PESTLE approach (political, economical, social, technological, legal,
+environmental) attempts to bring those long-term challenges as TRIZ _fields_
+into the modelling of shorter-term systemic transformations of BM.
+
+BM patterns that incorporate such phenomena are thus only at the beginning of
+a consolidation in corresponding processes of experience. An overview of such
+patterns was given in the presentation. The suggestions for additional value
+propositions in such patterns refer to a wide range of new BM approaches that
+have come up in the context of the digital transformation. It remains to be
+seen under which contextual conditions these approaches really lead to
+success.
+
 References:
 - [Gräbe-1] H.-G. Gräbe (2021). Technical Systems and Their Purposes. In:
   O. Mayer (ed.) TRIZ-Anwendertag 2020. Springer.
   <http://dx.doi.org/10.1007/978-3-662-63073-0_1>.
 - [Gräbe-2] H.-G. Gräbe (2021). Towards a Linked Open Data TRIZ Ontology.
   [LIFIS Online, 13.08.2021](http://dx.doi.org/10.14625/graebe_20210813).
+- [Gräbe-3] H.-G. Gräbe. Slides of the lecture on
+  [Sustainability](../Lecture/Sustainability.pdf)
 
 ## From the Chat
 
 Business model: What role play the _conditions of production_ (besides the
 labour processes in which the value proposition is practically realised)?
+
+- It seems none, since BM addresses systemic modelling on a special
+  abstraction level which considers the conditions of production of the
+  enterprise as a given context. They develop on different time horizons. 
 
 __Thesis:__ Up to now, (capitalist) economic activity has been based on the
 assumption that nature is available without restriction and free of charge
@@ -130,9 +170,8 @@ assumption that nature is available without restriction and free of charge
 How do the SDGs (which are the result of a longer global _political_ process)
 fit into a narrower economic theory?
 
-How to deal with the
-["Paris gap"](https://www.greenbiz.com/article/paris-gap-how-private-action-can-fill-void-emissions),
-which is currently assigned a central importance in the global climate debate?
+How to deal with the "Paris gap" (see the link in the remarks), which is
+currently assigned a central importance in the global climate debate?
 
 Slide 13: Very interesting link to ProHEAL Level 1 (techical-economic
 contradiction).  In ProHEAL this is processed in the ABER matrix, whose number
@@ -140,7 +179,8 @@ of columns has perhaps to be expanded for this purpose.
 
 Delphi Card Sorting - very interesting approach to produce _cooperative_
 knowledge.  Fits extremely well with our approach of systemic development and
-our understanding of the formation of concept in their use.
+our understanding of the formation of concept in their use as the topic of the
+current lecture.
 
 How do the pattern groups relate to another big issue, the transition to a
 circular economy? In what time horizons should BM patterns take effect?
