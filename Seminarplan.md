@@ -339,7 +339,7 @@ More themes:
   Laue)
 
 - [25.01.](2022-01-25/README.md) Service Oriented Business Process Management
-  (Alexander Pavlovski)
+  (Gräbex)
 
 - [01.02.](2022-02-01/README.md) Business Innovation in ISO 56000:2020
   (Gräbe)
@@ -351,3 +351,4 @@ More themes:
 Continuous Improvement, Engineering Systems and Systems Engineering
 <http://www.dorfwiki.org/wiki.cgi?HansGertGraebe/LeipzigerGespraeche/2022-02-04>
 
+	

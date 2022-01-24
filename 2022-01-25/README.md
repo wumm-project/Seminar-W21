@@ -4,7 +4,7 @@
 
 * __Theme:__ Service Oriented Business Process Management
 
-* __Presenter:__ Alexander Pavlovski
+* __Presenter:__ Gräbe
 
 ## Abstract
 
@@ -18,4 +18,6 @@ the __transition to a service society__. The lecture will examine and present
 which differences and new aspects arise in the field of BP modelling and
 management of such service-oriented structures.
 
-   __Literature:__ (Ford, Mouzas 2013)
+__Literature:__ (Ford, Mouzas 2013)
+
+
