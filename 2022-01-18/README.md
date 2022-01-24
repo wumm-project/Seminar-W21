@@ -6,8 +6,9 @@
 
 * __Presenter:__ Ralf Laue
 
-## Abstract
+* [Sildes](Slides.pdf)
 
+## From the Chat
 
 Slide 5:
 - x-axis: TRIZ - tool -> acts on -> object
