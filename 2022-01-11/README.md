@@ -130,9 +130,10 @@ contradiction that a _crucial change_ in the mode of production is required,
 which cannot be based on even innovative BM based on the _existing
 organisation of production_. However, the two sides of the contradiction
 operate on different time horizons and thus on different systemic levels. The
-PESTLE approach (political, economical, social, technological, legal,
-environmental) attempts to bring those long-term challenges as TRIZ _fields_
-into the modelling of shorter-term systemic transformations of BM.
+[PESTLE](https://pestleanalysis.com) approach (political, economical, social,
+technological, legal, environmental) attempts to bring those long-term
+challenges as TRIZ _fields_ into the modelling of shorter-term systemic
+transformations of BM.
 
 BM patterns that incorporate such phenomena are thus only at the beginning of
 a consolidation in corresponding processes of experience. An overview of such
