@@ -1,17 +1,15 @@
-# Seminar on January 4, 2022
+# Seminar on February 1, 2022
 
 ## Short Announcement
 
-* __Theme:__ Business Innovation in ISO 56000:2020
+* __Theme:__ Service and Value in the Interactive Business Landscape (cont.)
 
 * __Presenter:__ Hans-Gert Gräbe
 
 ## Abstract
 
-ISO 56000 "Innovation management – Fundamentals and vocabulary" is a newly (in
-2020) adopted international standard in which terms and concepts for
-innovation management are standardised at a sufficiently general level of
-abstraction.  The basic concepts and terms are to be presented and compared
-with the terminology developed so far in the seminar.
+See the [announcement](../2022-01-25/README.md) of the previous seminar.
 
-__Literature:__ ISO 56000
+## Material
+
+* [Slides](../2022-01-25/Slides.pdf)
