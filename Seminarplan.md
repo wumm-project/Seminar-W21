@@ -128,9 +128,7 @@ written in English.
 
 * Valeri Souchkov (2019).  TRIZ for Business and Management: State of the Art.
   TRIZ Developers Summit 2019.
-
-  <http://www.xtriz.com/publications/AccelerateInnovationWithTRIZ.pdf>
-
+  
 * Yariv Taran, Christian Nielsen, Marco Montemari, Peter Thomsen, Francesco
   Paolone (2016). Business model configurations: a five-V framework to map out
   potential innovation routes. European Journal of Innovation Management
