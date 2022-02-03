@@ -9,12 +9,13 @@
 \parskip4pt
 \setcounter{tocdepth}{2}
 
-\title{Research Seminar "Sustainability, Environment, Management". Seminar
+\title{Research Seminar at InfAI Leipzig \\[.3em] \emph{Sustainability,
+    Environment, Management}\\[.3em] Winter Term 2021/22\\[.3em] Seminar
   Notes}
 
 \author{Hans-Gert Gr\"abe}
 
-\date{Winter Term 2021/22}
+\date{February 3, 2022}
 
 \begin{document}
 \maketitle
@@ -50,7 +51,9 @@ apodictic truths.
 
 All materials and seminar reports that can be made publicly available, are be
 published in the github repository
-\url{https://github.com/wumm-project/Seminar-W21}.
+\begin{center}
+  \url{https://github.com/wumm-project/Seminar-W21}.
+\end{center}
 
 \subsection{Modelling Sustainable Systems and Semantic Web}
 
@@ -108,7 +111,7 @@ perform a useful function." (English Wikipedia).
 Earlier in this seminar, we had already studied more intensively different
 system concepts and, in particular, examined their application in complex
 socio-ecological, socio-economic and socio-technical contexts, see
-\cite{GraebeKleemann}. We observed that the central concepts of \emph{transition
+\cite{Notes-W19}. We observed that the central concepts of \emph{transition
   management} and \emph{activity management} addressed two different
 perspectives on structural change processes. In the transition management
 approach, the structural-transitional challenges are in the foreground, the
@@ -451,7 +454,7 @@ For details we refer to \cite{MSM}.
 
 \subsection{Theory of Dynamical Systems}
 
-\subsubsection{The Approach}
+\subsubsection*{The Approach}
 
 The processual dimension of systems can be investigated with the mathematical
 tools of the Theory of Dynamical Systems if the processes can be modelled as
@@ -477,7 +480,7 @@ Examples:
 \item Two body problem: \url{https://en.wikipedia.org/wiki/Two-body_problem}
 \end{itemize}
 
-\subsubsection{Model and Reality}
+\subsubsection*{Model and Reality}
 
 However, the solution of this equations only describes the motion $m(t)$ in
 the model. Good modelling is characterised by the fact that the real movement
@@ -491,7 +494,7 @@ Particularly interesting are modellings in which the residual $r(t)$ decreases
 "by itself". Such systems strive towards an equilibrium, which structure can
 be derived from the model.
 
-\subsubsection{How Chaotic can Trajectories be?} 
+\subsubsection*{How Chaotic can Trajectories be?} 
 
 Examples: 
 \begin{itemize}
@@ -511,7 +514,7 @@ clear. Such a bifurcation on a one-dimensional scale is also called a
 Not everything that looks like chaos has to be chaotic:\\
 \url{https://i.redd.it/zr7tet9mdfl01.gif}
 
-\subsubsection{Attractors}
+\subsubsection*{Attractors}
 
 How complicated can an equilibrium position be? 
 
@@ -552,7 +555,8 @@ of the phase space characterized by the following three conditions:
 Attractor as stable solution of the corresponding system of ODE\\
 \url{https://en.wikipedia.org/wiki/Attractor}
 
-\paragraph{On the importance of "stable" cyclical processes in nature.}
+\subsubsection*{On the importance of "stable" cyclical processes in nature}
+
 We are able to perceive such \emph{approximately} repeating patterns in
 natural processes (i.e. attractors), i.e.  perform such a reduction also
 independently of mathematical abilities.
@@ -560,8 +564,9 @@ independently of mathematical abilities.
 For given (deterministic) equations of motion one can compute the geometry of
 such an attractor as \emph{global deterministic} invariant of the equations of
 motion.
+\newpage
 
-\paragraph{How Complicated can an Attractor be?}
+\subsubsection*{How Complicated can an Attractor be?}
 \begin{itemize}
 \item \url{https://en.wikipedia.org/wiki/Attractor}
 \item \url{https://en.wikipedia.org/wiki/Lorenz_system}
@@ -574,7 +579,7 @@ motion.
   (Wikipedia)
 \end{itemize}
 
-\subsubsection{Dissipative Systems}
+\subsubsection*{Dissipative Systems}
 
 Closed and Open Systems. Previous investigations were directed towards the
 inner dynamics of an autonomous, i.e. closed system.
@@ -945,7 +950,7 @@ which are themselves in systemic system-subsystem interrelations and thus in a
 co-evolutio\-nary relationship which is best processed via a control loop
 designed as a feedback loop.
 
-\subsubsection{Systematic Management and ISO 9000}
+\subsubsection*{Systematic Management and ISO 9000}
 
 Systematic management requires a descriptive approach to this control loop as
 part of the organisation's process model, such as given in the modified
@@ -990,7 +995,7 @@ and real-world process quality at three different levels within a company.
   in quality assurance
 \end{center}
 
-\subsubsection{Managing Organisational Development and Capability-Maturity\\
+\subsubsection*{Managing Organisational Development and Capability-Maturity
   Models} 
 
 Management is only possible in the context of a clear understanding of the
@@ -1175,6 +1180,75 @@ discussed in \cite{Ackoff1997}, for example.
 \section{Conceptual Systems and Coordination Processes in Agent-based
   Business Systems}
 
+The consideration of agent-based business systems was actually intended to
+take a multi-stakeholder perspective in order to expand the view of business
+processes gained in the past seminars in the context of a single company and
+to examine more closely the design and implementation of business processes in
+cooperative contexts without a central decision-making authority. We did
+already consider similar approaches in the previous semester with the i* model
+\cite{Notes-S21}.
+
+This was not achieved since the presentation and discussion addressed agent
+based systems and not agent based business systems and thus focused on a
+rather technical dimension of the theme. Agent-based systems in such a
+technical sense are a topic of programming distributed middleware in computer
+science.  We discussed the question which characteristics distinguish such
+systems in the spectrum of general (distributed) component-based software
+architectures. If one analyses such software architectures in more detail,
+specifics exist above all in the design of the communication concepts as well
+as the specific form of the persistence layer and thus in the management of
+decentralised states. With regard to the system concept developed in the
+seminar, there is a central challenge. Systems are \emph{indecomposable} in
+their process dimension, which means that in most cases optimising the
+behaviour of the individual agents does not lead to an optimal overall system.
+Optimisation of the overall system requires corresponding system-global
+description forms and thus also a suitable \emph{global state management} in
+the distributed system. There are enough conceptual approaches for this in
+computer science, how far they may be applied in each individual cases. This
+elementary insight of systemic modelling did not play a role in the
+presentation and discussion.
+
+Agent-based systems model a basic assumption of the free market concept -- the
+contract-based action of economic subjects as homines oeconomici optimising
+private benefits leads to an optimal overall economic system. The "blind hand
+of the market" and thus the "naturally" developing economic processes (TRIZ
+Principle 25: By itself) lead "behind the market participants" in most cases
+to better results and are superior to regulatory interventions in these
+processes. This belief is in blatant contradiction not only to the importance
+of institutionalised procedures as pillar 2 in the 3-pillar concept of
+technology developed in the lecture, but also to all \emph{practical} efforts
+to standardise business processes, which were addressed in the previous
+seminar presentations (APQC PCF and Business TRIZ).
+
+Such market-like mechanisms are of very restricted value for technical
+interaction scenarios in distributed systems, each with local memories, to
+simulate agent-based business systems. Such simulations use a very specific
+understanding of market contexts, in which competition, mutual observation and
+local inference systems are in the foreground, while aspects of cooperative
+action and in particular the formation of common conceptual systems in such
+action are in the background compared to the "inner goals" of the agents. Such
+an approach emphasises the processual elements of these interactions and
+largely ignores the formation of structures through institutionalisation.
+
+Agent-based approaches nevertheless represent an important field of gaining
+experience for precisely such institutionalisation processes, if the
+corresponding systems are regarded as developing systems that are still in an
+early phase of interaction networking. Digital agent-based systems are a
+particularly interesting field of experimentation in view of their easy
+modifiability, where gaming approaches have recently enjoyed particular
+popularity.
+
+However, these experiences only become interesting when they are (or can be)
+transferred to real-world multi-stakeholder systems. At the centre of
+corresponding institutionalisation processes is the genesis and consolidation
+of system-global conceptual worlds to articulate and codify global system
+states, which transcend local beliefs as new, emergent systemic qualities.
+This process, which can still be controlled in the classical way within a
+company in the direction of a corporate identity under tight strategic
+management, cannot be implemented in such a way in multi-stakeholder contexts.
+The identification of suitable concepts how such forms of cooperative action
+can be conceptually accompanied is the main concern of our seminar.
+
 \section{Supply Chains and SCOR -- the Supply Chain Operations Reference
   Model}
 
@@ -1324,6 +1398,7 @@ that can be bundled, the various intrinsic logics of the operational areas
 enter into the decision-making process as partly contradictory restrictions
 and thus the reproduction conditions of the components appear as a multitude
 of (additional) requirements.
+\enlargethispage{1em}
 
 A radical answer to this problem is the transition to agent-based systems as
 presented in the previous week's seminar \cite{Haertel2021}. A system is built
@@ -1441,7 +1516,7 @@ Peter A. Bolstorff writes on the SCOR history on the ASCM blog
   \textbf{processes} to leverage the technology; adopt \textbf{practices} that
   were more than just white papers; and develop \textbf{people} to have both
   the knowledge and skills to make it all happen and move the needle of
-  performance and achieve the promised ROI.
+  performance and achieve the promised ROI.\newpage
 
   [Today] over 5\,000 companies have leveraged SCOR as part of their supply
   chain excellence journey. Innovations in each of the 11 versions of the
@@ -1674,24 +1749,6 @@ in two concepts of the notion system, from which "the art of schematisation"
 systemic planning ultimately translates into practical action (transition to
 activity, implementation, processes as ways of reading schemata etc.).
 
-Literature on OAG:
-\begin{itemize}
-\item Robert E. Howell, Irena G. Postalenko and Dmitri M. Rabkine: The
-  Organizational-Activity Game as a Method of Collaborative Planning and
-  Problem Solving in the Former Soviet Union.
-  \url{https://www.fondgp.ru/old/lib/int/12.html}
-\item E.N. Korneyeva: \foreignlanguage{russian}{Организационно-деятельностные
-  или проблемно-деловые игры}\\ (Organisational-activity or problem-solving
-  games). In: \foreignlanguage{russian}{Активные методы
-    социально-психологического обучения} (Active methods of
-  socio-psychological learning)
-  \url{http://cito-web.yspu.org/link1/metod/met110/node26.html}
-\item G.P. Shchedrovitsky (1983):
-  \foreignlanguage{russian}{Организационно-деятельностная игра как новая форма
-    организации коллективной мыследеятельности} (Organisational Activity Game
-  as a new form of organisation of collective thought activity)
-\end{itemize}
-
 \section{Exploitative and Explorative Business Process Improvement Patterns}
 
 The planned student presentation was cancelled at short notice, so the topic
@@ -1791,6 +1848,7 @@ management tasks, Business Models deal with questions of the \emph{strategic
   orientation} of the company in order to sustainably secure relevant capital
 flows and thus the decisive \emph{throughput} required for a viable business
 system.
+\newpage
 
 In the presentation such a perspective was linked with the questions
 \begin{itemize}
@@ -2113,7 +2171,7 @@ Value of service may be identified at the following levels:
     provision} by others.
 \end{itemize}
 
-\cite{} draw the following conclusions.
+\cite{FordMouzas2013} draw the following conclusions.
 \begin{enumerate}
 \item The conceptualisation of service in an interactive business landscape
   allows to capture the inherent connectivity among interdependent business
@@ -2197,9 +2255,6 @@ problems ("The whole is more than the sum of its parts").
 
   A shorter English version is available at
   \url{https://hg-graebe.de/EigeneTexte/sys-20-en.pdf}
-\bibitem{GraebeKleemann} Hans-Gert Gräbe, Ken Pierre Kleemann (2020). Seminar
-  Systemtheorie. Universität Leipzig. Wintersemester 2019/20 (in German).
-  Rohrbacher Manuskripte, Heft 22. LIFIS Berlin.
 \bibitem{Graebe-dat} Hans-Gert Gräbe (2021). Technical Systems and Their
   Purposes. In: O. Mayer (ed.) TRIZ-Anwendertag 2020. Springer.
   \url{http://dx.doi.org/10.1007/978-3-662-63073-0_1}.
@@ -2220,6 +2275,17 @@ problems ("The whole is more than the sum of its parts").
   B. Khristenko, Andrei G. Reus, Alexander P. Zinchenko et al. (2014).
   Methodological School of Management. Bloomsbury Publishing.  ISBN
   978-1-4729-1029-5.
+\bibitem{Notes-W19} Seminar Notes, Winter term 2019/20 (in German).
+
+  Reader. \url{http://mint-leipzig.de/2020-02-07/Reader.pdf}
+  
+  See also Rohrbacher Manuskripte, Heft 22. LIFIS Berlin.
+  \url{https://www.bod.de/buchshop/seminar-systemtheorie-9783752620023}
+\bibitem{Notes-S21} Seminar Notes, Summer term 2021.
+  \url{http://www.informatik.uni-leipzig.de/~graebe/skripte/Notes-S21.pdf}
+  
+  Reader. \url{http://mint-leipzig.de/2021-07-23/Reader.pdf}
+  
 \bibitem{Sommerville2015} Ian Sommerville (2015). Software Engineering.
   Chapter 19 „Systems Engineering“.
 \bibitem{Souchkov2010} Valeri Souchkov (2010). TRIZ and Systematic Business
