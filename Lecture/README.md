@@ -106,7 +106,7 @@ __Learning Objectives__:
 __Slides:__
 * [Systems and Sustainability](Sustainability.pdf)
 
-## November 04: Systemic Structures and Action Spaces
+## November 04: Systemic Structures and Spaces of Action
 
 __Literature__: (Ackoff-1091), (Holling-2001)
 
@@ -122,7 +122,7 @@ __Learning Objectives__:
 __Slides:__
 * [Systemic Structures and Action Spaces](ActionSpace.pdf)
 
-## November 11: Digital Action Spaces
+## November 11: Digital Spaces of Action
 
 __Literature__: (Thiel-2000), (Schetsche-2006) 
 
