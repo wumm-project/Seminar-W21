@@ -1,0 +1,514 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{ls}
+\usepackage[main=english,russian]{babel}
+% Requires OpenDiscovery/Pictures (as images) and ls.sty to be linked to the
+% current directory.
+
+\setlist{noitemsep}
+
+\title{System Model Innovation with Business TRIZ}
+
+\author{Michelle Bindel, Leipzig Univeersity, Germany}
+
+\date{March 31, 2022}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Introduction}
+
+TRIZ is a contradiction oriented systemic innovation framework that stems from
+technology and is constantly being expanded to other fields like Business and
+Management. Resulting among other things in Business TRIZ, which applies the
+general TRIZ approaches to resolve contradictions to business systems and
+business process landscapes. It has already been successfully used to solve
+problems in that domain, but there are still challenges to overcome and the
+tools are still continuously worked on. The aim of this paper is to explain
+the main approaches in Business TRIZ and to put the approaches pursued in
+Business TRIZ and its tools and methods in the larger context of innovation
+possibilities of business models.  To do that we will look at the development
+of Business TRIZ, its tools and how they work together to form a systemically
+driven general framework. As well as the current state of business models and
+their innovation and how Business TRIZ can be used to innovate them. 
+
+This seminar paper is presented as an extension of a previous talk held in the
+seminar \emph{Sustainability, Environment, Management} as part of the module
+Applied Computer Science. The seminar is held as a part of the WUMM project
+\cite{1}.
+
+\section{From TRIZ to Business TRIZ}
+
+TRIZ is an acronym of the russian phrase "\foreignlanguage{russian}{теория
+  решения изобретательских задач}" (Teoria reschenija isobretatjelskich
+sadatsch), translating to: theory of inventive problem solving. It consists of
+a collection of over 30 tools, which offer a systematic approach for producing
+creative ideas. It is founded on the realization that the majority of
+inventions complies with a relatively small set of principles and that these
+principles can be used to boost our creative thinking. TRIZ does not replace
+creativity, but it provides thinking triggers and solution patterns. When
+confronted with complex problems, it is not necessary to use tedious
+trial-and-error to find a satisfying solution. Instead, it is possible to rely
+on TRIZ to be guided to strong and promising approaches. \cite{2}
+
+Initially TRIZ was created by Genrich Saulowitsch Altschuller \cite{3}, a
+russian engineer, for other engineers, but within the last 15--20 years its
+application was also expanded to non-technical areas. Successful application
+to existing (seemingly unsolvable) business problems, triggered the
+development of TRIZ for Business and Management, which has still been actively
+evolving during recent years. Because TRIZ focuses on studying high-level
+patterns and regularities of the non-linear (inventive) evolution of technical
+systems, the same or very similar general patterns can be applied to
+non-technical systems.
+
+\begin{center}
+  \includegraphics[width=.8\textwidth]{images/ProblemSolvingWithTRIZ.png}
+    
+  \textbf{Figure 1:} The general TRIZ approach to problem solving \cite{4}
+\end{center}
+
+In \cite{5} Souchkov identifies several key reasons which make it possible to
+apply the principles of TRIZ to non-technical systems and in particular,
+business and management systems:
+\begin{itemize}
+\item Inventive problems emerge due to \emph{conflicts of demands} and none of
+  solutions known in an industry where the problem emerged can help.
+\item Inventive problems emerge within \emph{systems and processes} and relate
+  to organization of and interactions between components of such systems.
+\item Challenges and problems are solved through \emph{transforming systems}
+  where they emerged.
+\item At a high level of abstraction, \emph{patterns of inventive solutions}
+  indicating how systems should be transformed appear to be common for most
+  diverse types of human-made systems.
+\item \emph{General trends} of innovative development (evolution) appear to be
+  common for different types of human-made systems which might belong to very
+  diverse domains. 
+\end{itemize}
+The three main approaches in TRIZ are the \emph{solution of contradictions},
+the \emph{concept of ideality} and the \emph{trends of system evolution}.
+\cite{6}
+
+One of the earliest findings of TRIZ is that most problems are based on a
+dilemma or trade-off between two contradicting elements, and that
+contradiction has to be solved for a solution. Such a contradiction results
+from a conflict in what we want to achieve: either improving a functionality
+detoriates another one (\emph{Technical Contradiction}) or the same parameter
+has to have opposite values for different functionalities (\emph{Physical
+  Contradiction}).
+
+The \emph{Degree of Ideality} is a (qualitative) ratio between the perceived
+value delivered by a certain system, product or service and all types of
+expenses and investments needed to produce this value. It is used to compare
+two competitive systems and is defined as useful functionality of a system
+minus all negative factors that diminish its value, divided by costs:
+\begin{gather*}
+  \text{Degree of Ideality} = \frac{\text{Value Creators}-\text{Value
+      Reducers}}{\text{Costs}}
+\end{gather*}
+If the \emph{Trends of Evolution} are reproducible, then consequently
+evolution is not random and TRIZ can be used to predict the future evolution
+of certain technologies. Instead of listening to the demands of the customers,
+we listen to the "voice" of the product. By knowing which principles form the
+basis of the product, we can predict how it will evolve according to the
+Trends of Systems Evolution.
+
+\section{TRIZ Tools}
+
+Several tools and techniques were developed by Altshuller and his colleagues
+in the advancement of TRIZ. To exemplify some of the more popular tools (that
+are represented with current use cases in the \emph{Business TRIZ Online
+  Spring 2021 Conference} \cite{7}) are explained here, as it would go beyond
+the scope of this paper to name all of them.
+
+\emph{Function Analysis} helps to identify (hidden) interactions within a
+system with negative effects or insufficient performance, that may be poorly
+controllable, thus uncovering potential for further improvement. It makes it
+possible to rank functions delivered by system components and create a
+functional hierarchy, while establishing different levels of value delivered
+by system components. Valuable functions should be improved and unimportant
+ones should be trimmed. An extended version of the \emph{Function Analysis}
+was adapted to deal with intangible components such as business decisions or
+knowledge and information. \cite{5}
+
+After we have identified the contradictions in a business system, the
+\emph{Contradiction Matrix} provides a systematic access to the most relevant
+subset of the \emph{40 Inventive Principles}. The columns and rows of the
+matrix correspond to the parameters that are affected by the contradiction.
+The selected Inventive Principles do not offer an exact solution, but generic
+strategies and recommendations that have already successfully resolved similar
+contradictions. They still must be translated to a \emph{specific solution},
+that can be applied within the context of the specific problem. In the context
+of Business TRIZ the \emph{Contradiction Matrix} has been updated by Darrell
+Mann in form and content to make it easier for users to connect it with
+problems in the business area. \cite{8}
+
+While TRIZ on first glance can appear like a simple toolbox, the variety of
+tools can be placed in a systemically driven \emph{general framework} and as a
+\emph{uniform process model} they unfold their full potential. Years ago,
+Eversheim noted in \cite{9} that the TRIZ methodology does not provide a
+strict sequence or specific procedure in the application of the tools.
+However, since then, ways of structuring the toolkit have been suggested to
+provide some clarity on how the tools should be used.
+
+\begin{center}
+  \includegraphics[width=.8\textwidth]{images/qgrbqi.png}
+  
+  \textbf{Figure 2:} A typical stage-gate process with TRIZ \cite{10}
+\end{center}
+
+For example, in \cite{10} Souchkov later formulated a clear
+"stage-gate-process", for dealing with every type of innovation task. It
+includes four main steps where each step is supported with specific TRIZ tools
+adapted for business innovation:
+\begin{itemize}
+\item \emph{Defining:} The Preparation and Situation Analysis, where goals are
+  identified and fixed, revision of demands and constraints is performed and
+  project planning is established.
+\item \emph{Analysis:} The Problem is analyzed, by using analytical tools to
+  structure a situation, build its model, decompose a challenge identified and
+  extract key problems which must be solved to meet the project goals.
+\item \emph{Generation:} A list (portfolio) of new solution ideas is
+  generated.
+\item \emph{Selection:} The most promising solutions are ranked and selected,
+  and follow-up implementation problems are investigated.
+\end{itemize}
+
+\section{Business Model und Business Model Innovation}
+
+Zott, Amit, and Massa note in \cite{11} that it is not universally agreed upon
+what a business model is. Through a literature review, among the young and
+quite dispersed literature, they show that research on the topic is evolving
+in separate silos that are separated by the different interests of the
+researchers. Common themes among those are:
+\begin{itemize}
+\item business models as a new unit of analysis,
+\item business models explaining how firms do business, in a system-level and
+  holistic approach,
+\item business models explaining how value is created and
+\item encompassing boundary-spanning activities performed by firms.
+\end{itemize}
+
+They propose that by merging these interconnecting and mutually reinforcing
+themes business models could be studied in a more unified way. Another
+suggestion to advance the study of business models is for researchers to help
+others better to understand what a business model in their respective papers
+is meant to denote, by employing more precise concepts. This all suggests that
+the field is moving toward conceptual consolidation, which they believe is
+necessary to pave the way for more cumulative research on business models.
+
+While the definition of business models is hard to pin down, it is necessary
+to talk about them in a precise way that makes further research on the topic
+possible. Comparable to business models, there is a variety of definitions of
+business model innovation and a consensus in the scientific community is still
+lacking. But researchers generally agree that the business changes in a way
+that results in an increase to the value proposition. In \cite{16} the
+following definition was developed as a synthesis of selected definitions from
+the literature:
+\begin{quote}
+  Business model innovation changes the business model in a way that results
+  in a \emph{measurable increase in the value proposition}. The innovation of
+  business models often does not directly affect the value proposition but is
+  usually found in the \emph{key activities} and \emph{key resources}, which
+  then influence it.
+\end{quote}
+Why is business model innovation a relevant topic in academic research? To
+understand how it creates and extracts value, every company needs at least one
+clearly defined business model and for larger organizations, it is common to
+have multiple business units and business models. While business models are
+necessary for entrepreneurs starting a company, they are also essential for
+established companies wishing to sustain a competitive advantage in the
+marketplace. The rapidly developing technology causes constant disruption to
+the marketplace and may render existing business models ineffective
+anytime. Thus, many authors consider the innovation of business models a key
+to competing in the modern economy. And the innovation is necessary at many
+levels of the organization and not just at the top.
+
+Generating a new business model and successfully implementing it may come with
+a lot of profits. Also a new business model can be expensive and risky and
+executing the wrong one can mean insolvency. Depending on its implementation,
+the management of business model innovation can provide a firm stability or
+uncertainty. But knowing when or how to change a model is difficult. Business
+model innovation requires an iterative process and takes art and skill on
+behalf of the modeler. Despite the often-experimental nature of creating a
+successful business model, there are few dynamic methods for business model
+generation. The business landscape is filled with a large range of business
+models, but the way new models are generated and innovated are not clear. The
+concepts and tools to simplify and understand this environment are missing in
+the literature. Consequently, research on business model innovation has
+significantly increased.
+
+\section{Business Model according to TRIZ}
+
+In this chapter we show on what definition of a business model TRIZ bases its
+approach to business model innovation. In \cite{6} Souchkov forms a conceptual
+basis and names structural prerequisites on which the TRIZ tools can operate.
+He presents a new approach to business modelling which introduces building
+blocks to describe and represent business models.
+
+According to him a \emph{business model} is a broader term than a
+\emph{business system} or a \emph{business process}, which are defined and
+controlled by the business owners. Additionally, a business model also
+encompasses all the components such as external suppliers, customers, and
+sometimes even competitors – all parts of a supersystem that is involved in
+the process of capturing and delivering value. That is why business models
+should be analyzed within a larger context than business systems. In turn,
+business process models are context-independent and are used to model flows
+and activities arising within business systems and between business systems
+and components of their supersystem.
+
+For the Business TRIZ approach to system innovation Souchkov cites the
+definition by Johnson, Christensen and Kagermann \cite{12}:
+\begin{quote}
+  A Business Model is a description of how your company intends to create
+  value in the marketplace. It includes unique combination of products,
+  services, image, and distribution that your company carries forward. It also
+  includes the underlying organization of people, and the operational
+  infrastructure that they use to accomplish their work.
+\end{quote}
+This definition was later structured in \cite{12} into four groups of
+components that any business model is comprised of:
+\begin{itemize}
+\item \emph{Value Proposition:} Value captured and offered by a business
+  organization to the market. It can be a technical product, financial
+  product, or any type of service.
+\item \emph{Profit Formula:} It defines how a business system makes money
+  based on delivering its value proposition. In the simplest case, it is the
+  "buy low -- sell high" retail formula. Innovative business models introduce
+  different variations of approach to sales: lease, monthly payments, credit
+  payments, dynamic pricing, and so forth.
+\item \emph{Key Activities:} They define main processes and main actions
+  needed to create or add value and deliver it to the market.
+\item \emph{Key Resources:} These are all kind of resources (labour, capital,
+  equipment, etc.) required for successful implementation of key activities.
+\end{itemize}
+
+Later Souchkov \cite{6} deems these four components too general and writes
+that they miss the business structure. He points to the business model
+building blocks defined by Osterwalder and Pigneur \cite{14} as the
+\emph{Business Model Canvas}. While still forming the structure of a generic
+business model, it is more detailed, but still compact. In their approach, a
+business model can be assembled through combining generic building blocks
+which specify the way in which the business system operates in detail. In
+their model they distinguish between nine building blocks:
+\begin{itemize}
+\item[1.] \emph{Customer Segments:} An organization serves one or several
+  Customer Segments.
+\item[2.] \emph{Value Propositions:} It seeks to solve customer problems and
+  satisfy customer needs with value propositions.
+\item[3.] \emph{Channels:} Value propositions are communicated and delivered
+  to customers through communication, distribution, and sales channels.
+\item[4.] \emph{Customer Relationships:} Customer relationships are
+  established and maintained with each Customer Segment.
+\item[5.] \emph{Revenue Streams:} Revenue streams result from value
+  propositions successfully offered to customers.
+\item[6.] \emph{Key Resources:} Key resources are the assets required to offer
+  and deliver the previously described elements.
+\item[7.] \emph{Key Activities:} All types of activities needed to perform and
+  support the above-mentioned building blocks.
+\item[8.] \emph{Key Partnerships:} Some activities are outsourced, and some
+  resources are acquired outside the enterprise.
+\item[9.] \emph{Cost Structure:} The business model elements result in the
+  cost structure.
+\end{itemize}
+When developing a business model, each of those blocks can be full of a
+specific context that is specific to the respective business scenario. It
+helps to capture and visualize the most vital and relevant information.
+
+In a business model each of those building blocks is filled with its own
+content that is dependent on the specific type of business, service, or
+product it represents. Simultaneously each of those blocks can contain a
+generic pattern. It is possible to reuse those building block patterns across
+different business domains and can be seen as analogue to the physical
+principles in technical TRIZ. So, when the need to design a new business model
+or improve an existing one arrives, it is possible to choose the most fitting
+pattern or batch of \emph{patterns from a predefined pattern database}. One
+such database does currently not exist but is a topic of further research in
+the field of Business TRIZ.
+
+On that basis, we see that innovation is possible in two different ways. One,
+by changing the content of one or more of those building blocks, to improve
+the business model in a mild or radical manner. And second by building a
+completely new business model out of several building blocks.
+
+\section{Business Model Innovation in Business TRIZ}
+\begin{center}
+  \includegraphics[width=.8\textwidth]{images/TWIt7w.png}
+  
+  \textbf{Figure 3:} Business Model innovation as an important part of
+  Business Innovation \cite{5}
+\end{center}
+
+The ever-changing business environment requires continuous innovation of the
+ways in which we practice business and the technology involved in it. Random
+methods of idea generation are not efficient enough to keep pace. That is why
+the focus rests on finding systematic methods that support a continuous
+process of new business ideas generation. Since TRIZ is a leading systematic
+discipline for supporting the early stages of innovation, it is only logical
+to explore the applicability of TRIZ to business model innovation as well.
+
+It is important to distinguish the term business model innovation from the
+whole of business innovation. While Business model innovation has become very
+popular and is affecting all other types of business innovation it is only a
+part of it. Souchkov \cite{10} differentiates between them by saying "when we
+consider business system/network innovation we focus on the components change
+while when we focus on business model innovation, we primarily change the
+relationships between the components of a business system and its
+supersystem." In \cite{10} Souchkov compiles a list of examples for typical
+tasks in business model innovation and describes the possibilities of the
+application of key TRIZ tools and concepts such as Ideality within the context
+of business models.
+
+
+\begin{center}
+  \includegraphics[width=.8\textwidth]{images/77uMRr.png}
+    
+  \textbf{Figure 4:} Typical innovative tasks for business model innovation
+\end{center}
+
+An important role in the application of TRIZ to business models plays the
+concept of \emph{business building blocks} explained in section 5, that helps
+translate the TRIZ methods to the components of the business model. They
+describe business models clearly and in a structured way without overloading
+it with numerous details and make it possible to systematically assess and
+analyze business models with the TRIZ analytical tools and to innovatively
+modify existing business models or to design new, innovative ones. They help
+to locate and define problems, contradictions, and areas with high evolution
+potential. \cite{6}
+
+Business models tend to evolve according to the generic TRIZ trend of
+Increasing degree of Ideality. The Ideality formula as introduced in
+section 2 applies to both business and technical systems where:
+\begin{itemize}
+\item \emph{Value Creators} are all parameters, useful features and functions
+  of a Value Proposition (product or service) which are positively perceived
+  by the market,
+\item \emph{Value Reducers} are those features, functions, harms and any other
+  factors that reduce the perceived value and
+\item \emph{Costs} are all direct and indirect expenses required to generate
+  and maintain the Value Creators.
+\end{itemize}
+
+\begin{center}
+  \includegraphics[width=.8\textwidth]{images/YNlty3.png}
+    
+  \textbf{Figure 5:} A selection of common phases of innovative projects,\\
+  relevant for business model innovation and the TRIZ tool supporting these
+  \cite{5}
+\end{center}
+
+The higher the degree of Ideality of a specific Value Proposition within a
+certain segment is, the more competitive the Value Proposition will be. In
+turn, the degree of Ideality of a specific Value Proposition depends on the
+degree of Ideality of a business model used to create the Value
+Proposition. To increase the degree of Ideality of any business model it is
+possible to innovate in all three categories: Increase Value Creators by
+increasing the perceived value of the offerings in many different
+ways. Eliminate Value Reducers by working against all harmful effects that
+negatively affect the perceived value of the offering. Eliminate or Reduce
+Costs without both decreasing Value Creators and increasing Value Reducers.
+While it was claimed in earlier works that Typical Patterns of Business Model
+Innovation are identical to the patterns known for technical systems and
+already represented in the TRIZ knowledge bank, that has proven only partly
+true. Studies show that there are also several unique patterns specific to the
+business domain. Similar to technology and engineering, there are a number of
+universal high-order patterns of solution strategies which resolve
+contradictions and overcome barriers created by solutions known within the
+system’s domain. In \cite{15} it was tried to structure such patterns and
+apply them to exemplary scenarios of business model innovation to demonstrate
+their effectiveness.
+
+Next to the direct approaches to use the TRIZ principles in business model
+innovation, over the years there have also been successful attempts to combine
+them with other frameworks that try to foster innovation in business. In
+\cite{17} a business model innovation model based on the respective advantages
+of \emph{Case-Based Reasoning} (CBR) and TRIZ is proposed. A structured
+framework for setting up a comprehensive \emph{SWOT analysis} integrating
+TRIZ-based tools is introduced in \cite{18} that is supposed to help to define
+high reward areas of innovation in the early phase of planning processes. In
+\cite{19} TRIZ tools are shown to contribute to the \emph{Lean Canvas
+  Analysis} and helping especially start-ups to accelerate a methodical
+innovation process of their business model.
+
+\section{Discussion and Conclusion}
+
+It has been proven multiple times that the adaption of TRIZ to Business TRIZ
+was successful. Souchkov reports about many promising experiences with the use
+of TRIZ to deal with business and management innovative challenges from
+different countries \cite{5}. While the introduction of TRIZ was rather slow,
+compared to methods that are backed by less extensive frameworks, it is still
+relevant and has not vanished into insignificance. Old hurdles to TRIZ are
+still relevant \cite{20}, as it needs a significant amount of studying before
+it can be successfully applied and the original technical domains it evolved
+in having a different language and concepts than the business audience is used
+to.
+
+Through the nature of the fast-moving field of business and management there
+are constantly new challenges emerging and new fields of study, like business
+model innovation, opening up. And that TRIZ is being applied to these new
+problems by researchers, shows its continued relevance in the innovation
+sciences. The development of Business TRIZ still proceeds and like the
+business landscape the methods and tools of TRIZ always need to be adapted to
+the current needs. There are already many successful cases of that
+(reformulation of inventive principles, inventive standards, ARIZ). It can
+also be observed that it doesn’t involve inside a bubble but is being put in
+combination with other current approaches, which shows its versatility.
+
+The innovation of business models is one such exemplary area in which the work
+through TRIZ has been welcome and helpful but might never finished, as the
+constantly changing nature of the business world dictates.
+
+\begin{thebibliography}{xxx}
+\bibitem{3} Altshuller, G. S. (1984). Creativity as an exact science: the
+  theory of the solution of inventive problems. Gordon and Breach.
+\bibitem{18} Brad, S., Brad, E. (2015). Enhancing SWOT analysis with
+  TRIZ-based tools to integrate systematic innovation in early task design.
+  \emph{Procedia engineering}, 131, pp. 616--625.
+\bibitem{7} Results of the \emph{Business TRIZ Online Conference Spring 2021}.
+  See \url{http://wumm.uni-leipzig.de/conferences.php}
+\bibitem{9} Eversheim, W. (ed., 2008). Innovation management for technical
+  products: systematic and integrated product development and production
+  planning. Springer Science \& Business Media.
+\bibitem{15} Gibson, E., Jetter, A. (2014). Towards a dynamic process for
+  business model innovation: A review of the state-of-the-art.
+  \emph{Proceedings of PICMET'14 Conference}, pp. 1230--1238.  IEEE.
+\bibitem{20} Ilevbare, I. M., Probert, D., Phaal, R. (2013). A review of TRIZ,
+  and its benefits and challenges in practice. \emph{Technovation}, 33 (2-3),
+  pp. 30--37.
+\bibitem{12} Johnson, M. W., Christensen, C. M., Kagermann, H. (2008).
+  Reinventing your business model. \emph{Harvard Business Review}, 86 (12),
+  pp. 57--68.
+\bibitem{8} Mann, D. (2005). New and emerging contradiction elimination tools.
+  \emph{Creativity and Innovation Management}, 14 (1), pp. 14--21.
+\bibitem{14} Osterwalder, A., Pigneur, Y. (2010). Business Model Generation: a
+  Handbook for Visionaries, Game Changers, and Challengers (vol. 1). John
+  Wiley \& Sons.
+\bibitem{17} Shao, M., Ding, J., Ding, M., Liu, X. (2012). Research on
+  business model innovation method based on TRIZ and CBR. \emph{Proceedings of
+    the Second International Conference on Business Computing and Global
+    Informatization}, pp. 895--898. IEEE.
+\bibitem{19} Sire, P., Prevost, E., Guillou, Y., Riwan, A., Saulais, P.
+  (2019).  How can TRIZ tools tremendously stimulate the Lean canvas analysis
+  to foster start-up business model and value proposition? \emph{International
+    TRIZ Future Conference}, pp. 93--105. Springer.
+\bibitem{4} Souchkov, V. (2007). Breakthrough thinking with TRIZ for business
+  and management: An overview. ICG Training \& Consulting, pp. 3--12.
+\bibitem{6} Souchkov, V. (2010). TRIZ and systematic business model
+  innovation.  In Global ETRIA Conference TRIZ Future, pp. 3--5.
+\bibitem{16} Souchkov, V. (2015). Typical Patterns of Business Model
+  Innovation. \emph{The Journal of the European TRIZ Association}, Special
+  Issue: Collection of papers of 15th International TRIZ Future
+  Conference-Global Structured Innovation,  pp. 121--127.
+\bibitem{2} Souchkov, V. (2017). A short introduction to TRIZ and xTRIZ.
+  \url{https://www.youtube.com/watch?v=XRsyyGPXNA4}
+\bibitem{13} Souchkov, V. (2007-2019).  Training Manual for Systematic
+  Business Innovation.  ICG Training \& Consulting.
+\bibitem{10} Souchkov, V. (2019). Systematic business innovation: a roadmap.
+  \emph{TRIZ Review}, pp. 122-132.
+\bibitem{5} Souchkov, V. (2019). TRIZ for business and management: State of
+  the art. Proceedings of the TRIZ Developers Summit.
+\bibitem{1} The WUMM Project. \url{https://wumm-project.github.io}.
+\bibitem{11} Zott, C., Amit, R., Massa, L. (2011). The Business Model: Recent
+  Developments and Future Research. \emph{Journal of Management}, 37 (4),
+  pp. 1019–1042.
+\end{thebibliography}
+\end{document}
